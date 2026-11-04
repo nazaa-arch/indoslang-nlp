@@ -7,7 +7,6 @@ temen2nya -> teman-temannya) while respecting exclusions.
 from __future__ import annotations
 
 import re
-from typing import Dict, Optional
 
 # Reduplication pattern: word of at least 2 alphabetic characters, followed by 2,
 # with optional clitics (nya, ku, mu)
@@ -20,14 +19,14 @@ REDUP_PATTERN = re.compile(
 class ReduplicationResolver:
     """Expands Indonesian informal reduplications with affix clitics."""
 
-    def __init__(self, base_map: Optional[Dict[str, str]] = None) -> None:
+    def __init__(self, base_map: dict[str, str] | None = None) -> None:
         self.base_map = base_map or {}
 
-    def set_base_map(self, base_map: Dict[str, str]) -> None:
+    def set_base_map(self, base_map: dict[str, str]) -> None:
         """Update base word normalization mapping."""
         self.base_map = base_map
 
-    def expand(self, text: str, base_map: Optional[Dict[str, str]] = None) -> str:
+    def expand(self, text: str, base_map: dict[str, str] | None = None) -> str:
         """Expand all valid reduplication patterns in text."""
         mapping = base_map if base_map is not None else self.base_map
 

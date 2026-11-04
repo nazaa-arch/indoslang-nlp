@@ -1,6 +1,5 @@
 """Unit tests for LexiconMatcher."""
 
-import pytest
 from indoslang.lexicon import LexiconMatcher, PureTrieMatcher
 
 

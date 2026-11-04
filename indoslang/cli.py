@@ -3,10 +3,8 @@
 from __future__ import annotations
 
 import argparse
-import os
 import sys
 from pathlib import Path
-from typing import List, Optional
 
 import pandas as pd
 import platformdirs
@@ -49,7 +47,7 @@ def create_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def main(args: Optional[List[str]] = None) -> int:
+def main(args: list[str] | None = None) -> int:
     """Entrypoint for the CLI."""
     parser = create_parser()
     parsed_args = parser.parse_args(args)
@@ -103,8 +101,7 @@ def main(args: Optional[List[str]] = None) -> int:
                 lines = [line.rstrip("\n") for line in f]
             normalized_lines = normalizer.transform_batch(lines, n_jobs=parsed_args.workers)
             with open(out_path, "w", encoding="utf-8") as f:
-                for line in normalized_lines:
-                    f.write(line + "\n")
+                f.writelines(line + "\n" for line in normalized_lines)
 
         print(f"Normalization complete. Output saved to '{out_path}'.")
         return 0

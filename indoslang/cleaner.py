@@ -5,7 +5,7 @@ from __future__ import annotations
 import math
 import re
 import unicodedata
-from typing import Any, List
+from typing import Any
 
 # URL pattern: http, https, ftp, and www. prefixes
 URL_PATTERN = re.compile(
@@ -24,13 +24,13 @@ def is_nan(val: Any) -> bool:
     """Check if value is float NaN."""
     try:
         return isinstance(val, float) and math.isnan(val)
-    except Exception:
+    except (TypeError, ValueError):
         return False
 
 
 def strip_invisible_format_chars(text: str) -> str:
     """Remove Unicode Cf (Format) characters, preserving ZWJ (\\u200d) for emoji sequences."""
-    cleaned_chars: List[str] = []
+    cleaned_chars: list[str] = []
     for ch in text:
         cat = unicodedata.category(ch)
         if cat == "Cf":

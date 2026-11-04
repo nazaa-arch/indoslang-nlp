@@ -6,10 +6,10 @@ from indoslang.sklearn import IndoSlangTransformer
 
 __version__ = "0.1.0"
 __all__ = [
+    "AffectiveFeatures",
     "IndoNormalizer",
+    "IndoSlangTransformer",
     "NormalizedDoc",
     "TraceStep",
-    "AffectiveFeatures",
-    "IndoSlangTransformer",
     "__version__",
 ]

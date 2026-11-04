@@ -1,6 +1,5 @@
 """Unit tests for PIIMasker."""
 
-import pytest
 from indoslang.pii import PIIMasker, luhn_checksum_valid
 
 

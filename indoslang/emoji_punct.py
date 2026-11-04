@@ -3,10 +3,9 @@
 from __future__ import annotations
 
 import re
-from typing import Dict
 
 # Indonesian Demojize dictionary for common emojis
-EMOJI_ID_MAP: Dict[str, str] = {
+EMOJI_ID_MAP: dict[str, str] = {
     "😭": "<EMOJI_MENANGIS>",
     "😢": "<EMOJI_SEDIH>",
     "😡": "<EMOJI_MARAH>",
@@ -71,7 +70,7 @@ def handle_emoji(text: str, mode: str = "ignore") -> str:
         for emoji_char, token in EMOJI_ID_MAP.items():
             text = text.replace(emoji_char, f" {token} ")
         # Any remaining emojis can either be left or converted to generic token
-        text = EMOJI_PATTERN.sub(lambda m: f" <EMOJI_SIMBOL> ", text)
+        text = EMOJI_PATTERN.sub(lambda m: " <EMOJI_SIMBOL> ", text)
         return text
 
     return text

@@ -1,6 +1,5 @@
 """Unit tests for TokenProtector."""
 
-import pytest
 from indoslang.protect import TokenProtector
 
 

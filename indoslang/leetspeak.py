@@ -10,10 +10,9 @@ import itertools
 import json
 import os
 import re
-from typing import Dict, List, Set
 
 
-def load_leetspeak_map(path: str | None = None) -> Dict[str, List[str]]:
+def load_leetspeak_map(path: str | None = None) -> dict[str, list[str]]:
     """Load leetspeak substitution map from JSON file."""
     if path is None:
         base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -21,7 +20,8 @@ def load_leetspeak_map(path: str | None = None) -> Dict[str, List[str]]:
 
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+            data: dict[str, list[str]] = json.load(f)
+            return data
     
     # Fallback default map
     return {
@@ -43,9 +43,9 @@ class LeetspeakDecoder:
 
     def __init__(
         self,
-        vocab: Set[str],
-        slang_keys: Set[str] | None = None,
-        leetspeak_map: Dict[str, List[str]] | None = None,
+        vocab: set[str],
+        slang_keys: set[str] | None = None,
+        leetspeak_map: dict[str, list[str]] | None = None,
         max_candidates: int = 64
     ) -> None:
         self.vocab = vocab
@@ -71,7 +71,7 @@ class LeetspeakDecoder:
             return token
 
         # 4. Generate candidate word variations
-        char_options: List[List[str]] = []
+        char_options: list[list[str]] = []
         ambiguous_count = 0
 
         for ch in lower_token:

@@ -9,14 +9,14 @@ import os
 import re
 from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Set
+from typing import Any
 
 from indoslang.affect import AffectiveFeatureExtractor, AffectiveFeatures
 from indoslang.cleaner import TextCleaner
 from indoslang.elongation import DeElongator, load_whitelist_elongation
 from indoslang.emoji_punct import compress_punctuation, handle_emoji
 from indoslang.exceptions import ConfigurationError
-from indoslang.leetspeak import LeetspeakDecoder, load_leetspeak_map
+from indoslang.leetspeak import LeetspeakDecoder
 from indoslang.lexicon import LexiconMatcher
 from indoslang.pii import PIIMasker
 from indoslang.protect import TokenProtector, load_official_acronyms
@@ -33,7 +33,7 @@ class TraceStep:
     transformed_token: str
     rule_source: str
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> dict[str, str]:
         return asdict(self)
 
 
@@ -41,18 +41,18 @@ class TraceStep:
 class NormalizedDoc:
     """Normalized document container with text, affective features, trace, and metadata."""
     text: str
-    features: Dict[str, Any]
-    trace_steps: List[TraceStep]
-    meta: Dict[str, Any]
+    features: dict[str, Any]
+    trace_steps: list[TraceStep]
+    meta: dict[str, Any]
 
 
-def load_vocab_baku(path: str | None = None) -> Set[str]:
+def load_vocab_baku(path: str | None = None) -> set[str]:
     """Load standard Indonesian vocabulary from file."""
     if path is None:
         base_dir = os.path.dirname(os.path.abspath(__file__))
         path = os.path.join(base_dir, "data", "vocab", "id_vocab_baku.txt")
 
-    vocab: Set[str] = set()
+    vocab: set[str] = set()
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
@@ -85,7 +85,7 @@ class IndoNormalizer:
         lowercase: bool = True,
         translate_indoglish: bool = False,
         extract_features: bool = False,
-        extra_lexicons: Optional[List[str | Path]] = None,
+        extra_lexicons: list[str | Path] | None = None,
         dict_version: str = "2026.11",
     ) -> None:
         if ambiguity_mode not in ("conservative", "aggressive", "context_aware"):
@@ -168,7 +168,7 @@ class IndoNormalizer:
         
         Contract: Always returns NormalizedDoc.
         """
-        trace_steps: List[TraceStep] = []
+        trace_steps: list[TraceStep] = []
 
         # 0. Non-string safety & check
         sanitized = self.cleaner.sanitize_input(text)
@@ -230,7 +230,7 @@ class IndoNormalizer:
                 ))
 
         # Stage 8: Pencocokan Leksikon Aho-Corasick
-        trace_lexicon: List[Dict[str, str]] = [] if trace else None
+        trace_lexicon: list[dict[str, str]] | None = [] if trace else None
         current_text = self.lexicon_matcher.replace(current_text, trace_records=trace_lexicon)
         if trace and trace_lexicon:
             for item in trace_lexicon:
@@ -267,10 +267,10 @@ class IndoNormalizer:
 
     def transform_batch(
         self,
-        texts: List[Any],
+        texts: list[Any],
         n_jobs: int = 1,
         batch_size: int = 1000
-    ) -> List[str]:
+    ) -> list[str]:
         """Normalize a collection of texts efficiently.
         
         Args:
@@ -289,14 +289,14 @@ class IndoNormalizer:
             return [self.normalize(t) for t in texts]
 
         # Multiprocessing batch execution
-        from concurrent.futures import ProcessPoolExecutor
         import multiprocessing
+        from concurrent.futures import ProcessPoolExecutor
 
         max_workers = min(n_jobs if n_jobs > 0 else multiprocessing.cpu_count(), multiprocessing.cpu_count())
 
         # Divide into chunks
         chunks = [texts[i:i + batch_size] for i in range(0, len(texts), batch_size)]
-        results: List[str] = []
+        results: list[str] = []
 
         # Global worker helper function
         with ProcessPoolExecutor(max_workers=max_workers) as executor:
@@ -329,7 +329,7 @@ class IndoNormalizer:
         return cls(**cfg)
 
 
-def _batch_worker_task(args: Tuple[List[Any], IndoNormalizer]) -> List[str]:
+def _batch_worker_task(args: tuple[list[Any], IndoNormalizer]) -> list[str]:
     """Top-level helper function for multiprocessing batch execution."""
     chunk, normalizer = args
     return [normalizer.normalize(t) for t in chunk]

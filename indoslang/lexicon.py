@@ -10,7 +10,7 @@ import json
 import os
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Set, Tuple
+from typing import Any
 
 # Try importing ahocorasick-rs, with fallback to pure-Python Trie
 try:
@@ -31,20 +31,20 @@ class LexiconEntry:
     ambiguous: bool
     source: str
     is_multiword: bool
-    context_hint: List[str] = field(default_factory=list)
+    context_hint: list[str] = field(default_factory=list)
 
 
 class PureTrieNode:
     """Trie node for pure-Python fallback."""
     def __init__(self) -> None:
-        self.children: Dict[str, PureTrieNode] = {}
-        self.pattern_indices: List[int] = []
+        self.children: dict[str, PureTrieNode] = {}
+        self.pattern_indices: list[int] = []
 
 
 class PureTrieMatcher:
     """Pure-Python fallback trie matcher when ahocorasick-rs is unavailable."""
 
-    def __init__(self, patterns: List[str]) -> None:
+    def __init__(self, patterns: list[str]) -> None:
         self.patterns = patterns
         self.root = PureTrieNode()
         for idx, pat in enumerate(patterns):
@@ -55,9 +55,9 @@ class PureTrieMatcher:
                 node = node.children[ch]
             node.pattern_indices.append(idx)
 
-    def find_matches_as_indexes(self, text: str, overlapping: bool = True) -> List[Tuple[int, int, int]]:
+    def find_matches_as_indexes(self, text: str, overlapping: bool = True) -> list[tuple[int, int, int]]:
         """Find matches in text, returning list of (pattern_idx, start, end)."""
-        matches: List[Tuple[int, int, int]] = []
+        matches: list[tuple[int, int, int]] = []
         text_len = len(text)
 
         for i in range(text_len):
@@ -80,12 +80,13 @@ class LexiconMatcher:
         self,
         ambiguity_mode: str = "conservative",
         translate_indoglish: bool = False,
-        extra_lexicons: Optional[List[str | Path]] = None,
-        custom_entries: Optional[Dict[str, LexiconEntry]] = None
+        extra_lexicons: list[str | Path] | None = None,
+        custom_entries: dict[str, LexiconEntry] | None = None
     ) -> None:
         self.ambiguity_mode = ambiguity_mode
         self.translate_indoglish = translate_indoglish
         self.extra_lexicons = extra_lexicons or []
+        self.automaton: Any = None
 
         # Load all entries
         if custom_entries is not None:
@@ -96,7 +97,7 @@ class LexiconMatcher:
         # Build patterns and automaton
         self._compile_automaton()
 
-    def _load_all_dictionaries(self) -> Dict[str, LexiconEntry]:
+    def _load_all_dictionaries(self) -> dict[str, LexiconEntry]:
         """Load default dictionaries and apply any extra lexicons."""
         base_dir = os.path.dirname(os.path.abspath(__file__))
         dict_dir = os.path.join(base_dir, "data", "dictionaries")
@@ -108,7 +109,7 @@ class LexiconMatcher:
             os.path.join(dict_dir, "regional_slang.json"),
         ]
 
-        entries: Dict[str, LexiconEntry] = {}
+        entries: dict[str, LexiconEntry] = {}
 
         # 1. Load default dictionaries
         for path in default_files:
@@ -122,7 +123,7 @@ class LexiconMatcher:
 
         return entries
 
-    def _load_json_dict(self, path: str, target: Dict[str, LexiconEntry]) -> None:
+    def _load_json_dict(self, path: str, target: dict[str, LexiconEntry]) -> None:
         """Parse dictionary JSON and load into entry map."""
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -149,24 +150,16 @@ class LexiconMatcher:
 
     def _compile_automaton(self) -> None:
         """Filter patterns based on mode and compile Aho-Corasick automaton."""
-        active_entries: List[LexiconEntry] = []
+        active_entries: list[LexiconEntry] = []
 
-        for pat, entry in self.entries.items():
+        for entry in self.entries.values():
             # 1. Filter Indoglish if translate_indoglish is False
             if entry.category == "indoglish" and not self.translate_indoglish:
                 continue
 
             # 2. Ambiguity mode filter
-            if self.ambiguity_mode == "conservative":
-                # In conservative mode:
-                # - Allow multiword phrases (e.g. "cm kamu" -> "cuma kamu")
-                # - For single words, only allow if confidence >= 0.98 and NOT ambiguous
-                if not entry.is_multiword and (entry.ambiguous or entry.confidence < 0.98):
-                    continue
-            elif self.ambiguity_mode == "context_aware":
-                # Future expansion: allow multiword, conservative for single words unless hinted
-                if not entry.is_multiword and (entry.ambiguous or entry.confidence < 0.98):
-                    continue
+            if self.ambiguity_mode in ("conservative", "context_aware") and not entry.is_multiword and (entry.ambiguous or entry.confidence < 0.98):
+                continue
             # "aggressive" allows everything
 
             active_entries.append(entry)
@@ -186,18 +179,18 @@ class LexiconMatcher:
             self.automaton = PureTrieMatcher(self.patterns)
             self.is_rs = False
 
-    def __getstate__(self) -> Dict[str, Any]:
+    def __getstate__(self) -> dict[str, Any]:
         """Exclude unpickleable AhoCorasick extension object from state for pickling/multiprocessing."""
         state = self.__dict__.copy()
         state["automaton"] = None
         return state
 
-    def __setstate__(self, state: Dict[str, Any]) -> None:
+    def __setstate__(self, state: dict[str, Any]) -> None:
         """Restore state and recompile AhoCorasick automaton."""
         self.__dict__.update(state)
         self._compile_automaton()
 
-    def replace(self, text: str, trace_records: Optional[List[Dict[str, str]]] = None) -> str:
+    def replace(self, text: str, trace_records: list[dict[str, str]] | None = None) -> str:
         """Replace all matched lexicon patterns in text respecting word boundaries."""
         if not text or not self.patterns or self.automaton is None:
             return text
@@ -208,7 +201,7 @@ class LexiconMatcher:
             return text
 
         text_len = len(text)
-        valid_matches: List[Tuple[int, int, int]] = []
+        valid_matches: list[tuple[int, int, int]] = []
 
         # Filter matches for word boundary
         for pat_idx, start, end in matches:
@@ -227,7 +220,7 @@ class LexiconMatcher:
         valid_matches.sort(key=lambda m: (m[1], -(m[2] - m[1])))
 
         # Resolve overlaps
-        selected: List[Tuple[int, int, int]] = []
+        selected: list[tuple[int, int, int]] = []
         last_end = 0
         for m in valid_matches:
             if m[1] >= last_end:
@@ -235,7 +228,7 @@ class LexiconMatcher:
                 last_end = m[2]
 
         # Reconstruct text with substitutions
-        result_parts: List[str] = []
+        result_parts: list[str] = []
         cursor = 0
         for pat_idx, start, end in selected:
             entry = self.active_entries[pat_idx]

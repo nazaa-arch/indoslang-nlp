@@ -9,16 +9,15 @@ from __future__ import annotations
 import itertools
 import os
 import re
-from typing import Dict, List, Set, Tuple
 
 
-def load_whitelist_elongation(path: str | None = None) -> Set[str]:
+def load_whitelist_elongation(path: str | None = None) -> set[str]:
     """Load whitelist of valid Indonesian double-letter words."""
     if path is None:
         base_dir = os.path.dirname(os.path.abspath(__file__))
         path = os.path.join(base_dir, "data", "rules", "whitelist_elongation.txt")
 
-    whitelist: Set[str] = set()
+    whitelist: set[str] = set()
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
@@ -33,15 +32,15 @@ class DeElongator:
 
     def __init__(
         self,
-        vocab: Set[str],
-        whitelist: Set[str] | None = None,
-        slang_keys: Set[str] | None = None
+        vocab: set[str],
+        whitelist: set[str] | None = None,
+        slang_keys: set[str] | None = None
     ) -> None:
         self.vocab = vocab
         self.whitelist = whitelist if whitelist is not None else load_whitelist_elongation()
         self.slang_keys = slang_keys or set()
 
-    def de_elongate_token(self, token: str) -> Tuple[str, bool]:
+    def de_elongate_token(self, token: str) -> tuple[str, bool]:
         """De-elongate a single token.
         
         Returns:
@@ -56,7 +55,7 @@ class DeElongator:
 
         # 2. Identify runs of repeated consecutive identical letters
         # Run matches: ([a-z])\1+
-        runs: List[Tuple[int, int, str, int]] = []  # (start, end, char, length)
+        runs: list[tuple[int, int, str, int]] = []  # (start, end, char, length)
         for m in re.finditer(r"([a-zA-Z])\1+", token):
             runs.append((m.start(), m.end(), m.group(1).lower(), len(m.group(0))))
 
@@ -71,7 +70,7 @@ class DeElongator:
         # 3. Generate candidate variations per-run (1 or 2 letters per run)
         # Limit to 4 runs (max 2^4 = 16 candidates)
         effective_runs = runs[:4]
-        run_options: List[List[str]] = []
+        run_options: list[list[str]] = []
         for _, _, ch, length in effective_runs:
             if length >= 3:
                 run_options.append([ch, ch * 2])
@@ -79,9 +78,9 @@ class DeElongator:
                 run_options.append([ch, ch * 2])
 
         # Reconstruct candidates
-        candidates: List[str] = []
+        candidates: list[str] = []
         for combo in itertools.product(*run_options):
-            parts: List[str] = []
+            parts: list[str] = []
             cursor = 0
             for (start, end, _, _), replacement in zip(effective_runs, combo):
                 parts.append(lower_token[cursor:start])
@@ -115,7 +114,7 @@ class DeElongator:
 
         # 5. Fallback rule:
         # Run >= 3 compressed to 1 letter; run == 2 left untouched
-        fallback_parts: List[str] = []
+        fallback_parts: list[str] = []
         cursor = 0
         was_compressed = False
         for start, end, ch, length in runs:
@@ -131,13 +130,13 @@ class DeElongator:
 
         return result, was_compressed
 
-    def process_text(self, text: str) -> Tuple[str, List[str]]:
+    def process_text(self, text: str) -> tuple[str, list[str]]:
         """De-elongate all eligible tokens in text.
         
         Returns:
             Tuple of (de_elongated_text, list_of_elongated_tokens_normalized)
         """
-        elongated_tokens: List[str] = []
+        elongated_tokens: list[str] = []
 
         def repl(match: re.Match[str]) -> str:
             tok = match.group(0)

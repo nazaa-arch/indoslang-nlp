@@ -1,9 +1,9 @@
 """Unit tests for Scikit-Learn transformer integration."""
 
 import pickle
-import pytest
-from sklearn.pipeline import Pipeline
+
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.pipeline import Pipeline
 
 from indoslang.sklearn import IndoSlangTransformer
 
@@ -23,7 +23,7 @@ def test_pipeline_integration():
     ])
 
     raw_texts = ["gw mager bgt", "kamu rajin bgt", "dia malas gerak"]
-    X = pipe.fit_transform(raw_texts)
+    _ = pipe.fit_transform(raw_texts)
     vocab = pipe.named_steps["vectorizer"].vocabulary_
     assert "malas" in vocab
     assert "gerak" in vocab

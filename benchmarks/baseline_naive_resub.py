@@ -1,11 +1,11 @@
 """Naive re.sub per-entry baseline for comparison with Aho-Corasick in IndoSlang-NLP."""
 
 import json
-import os
 import re
 import time
 from pathlib import Path
-from benchmarks.benchmark_speed import BENCHMARK_SAMPLES, generate_benchmark_dataset
+
+from benchmarks.benchmark_speed import generate_benchmark_dataset
 
 
 class NaiveReSubNormalizer:

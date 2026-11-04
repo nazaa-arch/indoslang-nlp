@@ -1,6 +1,7 @@
 """Unit tests for LeetspeakDecoder."""
 
 import pytest
+
 from indoslang.leetspeak import LeetspeakDecoder
 from indoslang.normalizer import load_vocab_baku
 

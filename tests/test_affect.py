@@ -1,6 +1,5 @@
 """Unit tests for AffectiveFeatureExtractor."""
 
-import pytest
 from indoslang.affect import AffectiveFeatureExtractor
 
 

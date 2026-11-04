@@ -1,6 +1,7 @@
 """Unit tests for DeElongator."""
 
 import pytest
+
 from indoslang.elongation import DeElongator, load_whitelist_elongation
 from indoslang.normalizer import load_vocab_baku
 

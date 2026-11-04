@@ -1,7 +1,5 @@
 """Unit tests for TextCleaner and Unicode sanitization."""
 
-import math
-import pytest
 from indoslang.cleaner import TextCleaner, strip_invisible_format_chars
 
 

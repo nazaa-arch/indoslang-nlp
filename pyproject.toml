@@ -10,12 +10,11 @@ readme = "README.md"
 authors = [
     { name = "IndoSlang Contributors" }
 ]
-license = { text = "MIT" }
+license = "MIT"
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Science/Research",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
     "Natural Language :: Indonesian",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
@@ -81,3 +80,10 @@ indoslang = [
 pythonpath = ["."]
 testpaths = ["tests"]
 addopts = "-v --tb=short"
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+disallow_untyped_defs = true

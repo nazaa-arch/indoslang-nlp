@@ -8,10 +8,10 @@ from __future__ import annotations
 
 import re
 from dataclasses import asdict, dataclass, field
-from typing import Any, Dict, List, Set
+from typing import Any
 
 # Negative emojis and emoticons indicating sadness, frustration, or anger
-NEGATIVE_EMOJIS_AND_EMOTICONS: Set[str] = {
+NEGATIVE_EMOJIS_AND_EMOTICONS: set[str] = {
     "😭", "😡", "🤬", "😢", "😠", "👿", "💔", "😞", "😔", "😣", "😫", "😩",
     "🥺", "😤", "😿", "😾",
     ":(", ":-(", ":'(", ":'-(", "D:", "D=", "Dx"
@@ -26,9 +26,9 @@ class AffectiveFeatures:
     question_count: int = 0
     emoticon_negative_count: int = 0
     elongation_count: int = 0
-    elongated_tokens: List[str] = field(default_factory=list)
+    elongated_tokens: list[str] = field(default_factory=list)
 
-    def to_dict(self) -> Dict[str, Any]:
+    def to_dict(self) -> dict[str, Any]:
         """Convert features to a dictionary."""
         return asdict(self)
 

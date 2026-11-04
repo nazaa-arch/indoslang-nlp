@@ -7,16 +7,16 @@ Complies with the benchmark protocol in Section 15 of the design specification:
 - Sentences per second (throughput) and latency per sentence
 """
 
-import os
+import io
 import platform
+import statistics
 import sys
 import time
-import statistics
 
 if hasattr(sys.stdout, "reconfigure"):
     try:
         sys.stdout.reconfigure(encoding="utf-8")
-    except Exception:
+    except (io.UnsupportedOperation, AttributeError):
         pass
 
 from indoslang import IndoNormalizer

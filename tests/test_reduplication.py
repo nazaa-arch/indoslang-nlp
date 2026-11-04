@@ -1,6 +1,5 @@
 """Unit tests for ReduplicationResolver."""
 
-import pytest
 from indoslang.reduplication import ReduplicationResolver
 
 

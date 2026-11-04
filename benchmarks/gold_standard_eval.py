@@ -1,10 +1,12 @@
 """Gold Standard evaluation script for IndoSlang-NLP accuracy and OOV reduction."""
 
+import io
 import sys
+
 if hasattr(sys.stdout, "reconfigure"):
     try:
         sys.stdout.reconfigure(encoding="utf-8")
-    except Exception:
+    except (io.UnsupportedOperation, AttributeError):
         pass
 
 from indoslang import IndoNormalizer
@@ -45,7 +47,6 @@ def evaluate():
         if pred.strip() == expected.strip():
             sentence_matches += 1
 
-        raw_toks = raw.split()
         pred_toks = pred.split()
         exp_toks = expected.split()
 

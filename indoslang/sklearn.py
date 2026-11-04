@@ -2,8 +2,9 @@
 
 from __future__ import annotations
 
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Any, Iterable, List, Optional
+from typing import Any
 
 from sklearn.base import BaseEstimator, TransformerMixin
 
@@ -29,7 +30,7 @@ class IndoSlangTransformer(BaseEstimator, TransformerMixin):
         lowercase: bool = True,
         translate_indoglish: bool = False,
         extract_features: bool = False,
-        extra_lexicons: Optional[List[str | Path]] = None,
+        extra_lexicons: list[str | Path] | None = None,
         dict_version: str = "2026.11",
     ) -> None:
         self.ambiguity_mode = ambiguity_mode
@@ -71,7 +72,7 @@ class IndoSlangTransformer(BaseEstimator, TransformerMixin):
         self._init_normalizer()
         return self
 
-    def transform(self, X: Iterable[Any]) -> List[str]:
+    def transform(self, X: Iterable[Any]) -> list[str]:
         """Transform an iterable of texts into normalized texts."""
         if hasattr(X, "tolist"):
             texts = X.tolist()

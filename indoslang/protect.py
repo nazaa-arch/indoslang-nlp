@@ -8,7 +8,6 @@ from __future__ import annotations
 
 import os
 import re
-from typing import Dict, List, Set, Tuple
 
 # Placeholder pattern for system-generated tags
 PLACEHOLDER_PATTERN = re.compile(r"<(?:USER|PHONE|EMAIL|ID_NUMBER|ACCOUNT|EMOJI_[A-Za-z0-9_]+)>")
@@ -34,13 +33,13 @@ SENTINEL_SUFFIX = "\x03"
 SENTINEL_PATTERN = re.compile(r"\x02p_(\d+)\x03", re.IGNORECASE)
 
 
-def load_official_acronyms(path: str | None = None) -> Set[str]:
+def load_official_acronyms(path: str | None = None) -> set[str]:
     """Load official Indonesian and international acronyms from file."""
     if path is None:
         base_dir = os.path.dirname(os.path.abspath(__file__))
         path = os.path.join(base_dir, "data", "rules", "official_acronyms.txt")
     
-    acronyms: Set[str] = set()
+    acronyms: set[str] = set()
     if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
@@ -53,8 +52,8 @@ def load_official_acronyms(path: str | None = None) -> Set[str]:
 class TokenProtector:
     """Manages token protection throughout the normalization pipeline."""
 
-    def __init__(self, official_acronyms: Set[str] | None = None, preserve_acronyms: bool = True) -> None:
-        self.official_acronyms: Set[str] = official_acronyms if official_acronyms is not None else load_official_acronyms()
+    def __init__(self, official_acronyms: set[str] | None = None, preserve_acronyms: bool = True) -> None:
+        self.official_acronyms: set[str] = official_acronyms if official_acronyms is not None else load_official_acronyms()
         self.preserve_acronyms = preserve_acronyms
 
     def is_numeric_exclusion(self, token: str) -> bool:
@@ -65,17 +64,17 @@ class TokenProtector:
         """Check if a token is a system placeholder."""
         return bool(PLACEHOLDER_PATTERN.fullmatch(token.strip()))
 
-    def protect(self, text: str) -> Tuple[str, Dict[str, str]]:
+    def protect(self, text: str) -> tuple[str, dict[str, str]]:
         """Find all protected tokens in text and replace them with sentinels.
         
         Returns:
             Tuple of (masked_text, protected_mapping)
         """
-        protected_map: Dict[str, str] = {}
+        protected_map: dict[str, str] = {}
         idx = 0
 
         # Collect spans to protect: (start, end, original_text)
-        spans: List[Tuple[int, int, str]] = []
+        spans: list[tuple[int, int, str]] = []
 
         # 1. System placeholders (<USER>, <PHONE>, etc.)
         for m in PLACEHOLDER_PATTERN.finditer(text):
@@ -98,7 +97,7 @@ class TokenProtector:
 
         # Sort spans by start asc, length desc, and resolve overlaps
         spans.sort(key=lambda s: (s[0], -(s[1] - s[0])))
-        non_overlapping: List[Tuple[int, int, str]] = []
+        non_overlapping: list[tuple[int, int, str]] = []
         last_end = -1
         for start, end, orig in spans:
             if start >= last_end:
@@ -106,21 +105,20 @@ class TokenProtector:
                 last_end = end
 
         # Construct masked text
-        result_parts: List[str] = []
+        result_parts: list[str] = []
         cursor = 0
-        for start, end, orig in non_overlapping:
+        for idx, (start, end, orig) in enumerate(non_overlapping):
             result_parts.append(text[cursor:start])
             sentinel = f"{SENTINEL_PREFIX}{idx}{SENTINEL_SUFFIX}"
             protected_map[sentinel] = orig
             result_parts.append(sentinel)
-            idx += 1
             cursor = end
         result_parts.append(text[cursor:])
 
         return "".join(result_parts), protected_map
 
     @staticmethod
-    def restore(text: str, protected_map: Dict[str, str]) -> str:
+    def restore(text: str, protected_map: dict[str, str]) -> str:
         """Restore all sentinels in text back to their original protected tokens."""
         if not protected_map:
             return text

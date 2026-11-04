@@ -1,6 +1,8 @@
 """Property-based testing with Hypothesis for IndoSlang-NLP."""
 
-from hypothesis import given, settings, strategies as st
+from hypothesis import given, settings
+from hypothesis import strategies as st
+
 from indoslang.normalizer import IndoNormalizer
 
 normalizer = IndoNormalizer()

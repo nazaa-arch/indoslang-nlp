@@ -2,7 +2,7 @@
 
 import tempfile
 from pathlib import Path
-import pytest
+
 from indoslang.cli import main
 
 

@@ -1,7 +1,8 @@
 """Comprehensive unit tests for IndoNormalizer and Golden Test Cases."""
 
 import pytest
-from indoslang.normalizer import IndoNormalizer, NormalizedDoc
+
+from indoslang.normalizer import IndoNormalizer
 
 
 @pytest.fixture
