@@ -1,0 +1,32 @@
+name: Dictionary Schema Validation
+
+on:
+  push:
+    paths:
+      - "indoslang/data/**"
+      - "tests/test_dictionaries_schema.py"
+  pull_request:
+    paths:
+      - "indoslang/data/**"
+      - "tests/test_dictionaries_schema.py"
+
+jobs:
+  validate-schema:
+    name: Validate Dictionary Files & Anti-Chaining
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Validation Requirements
+        run: |
+          pip install jsonschema pytest
+
+      - name: Run Schema & Anti-Chaining Tests
+        run: |
+          pytest tests/test_dictionaries_schema.py -v

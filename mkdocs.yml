@@ -1,0 +1,22 @@
+site_name: IndoSlang-NLP
+site_description: Pustaka Normalisasi Bahasa Gaul, Singkatan, dan Leetspeak Bahasa Indonesia
+site_author: IndoSlang Contributors
+theme:
+  name: material
+  language: id
+  palette:
+    - scheme: default
+      primary: red
+      accent: deep orange
+
+nav:
+  - Beranda: index.md
+  - Panduan Pengguna: user_guide.md
+  - Referensi API: api_reference.md
+  - Pedoman Anotasi: annotation_guidelines.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight

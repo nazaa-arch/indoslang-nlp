@@ -1,0 +1,83 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "indoslang-nlp"
+version = "0.1.0"
+description = "Fast, deterministic, and modular Python library for Indonesian social media slang, elongation, leetspeak, and abbreviation normalization."
+readme = "README.md"
+authors = [
+    { name = "IndoSlang Contributors" }
+]
+license = { text = "MIT" }
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: Indonesian",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+]
+keywords = [
+    "nlp",
+    "indonesian",
+    "slang",
+    "normalization",
+    "text-preprocessing",
+    "leetspeak",
+    "de-elongation",
+    "indoslang",
+]
+requires-python = ">=3.10"
+dependencies = [
+    "ahocorasick-rs>=1.0.0",
+    "regex>=2023.0.0",
+    "platformdirs>=3.0.0",
+    "pandas>=1.5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "hypothesis>=6.0.0",
+    "jsonschema>=4.0.0",
+    "pydantic>=2.0.0",
+    "scikit-learn>=1.2.0",
+    "ruff",
+    "black",
+    "mypy",
+]
+all = [
+    "scikit-learn>=1.2.0",
+    "polars>=0.20.0",
+]
+
+[project.scripts]
+indoslang = "indoslang.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["indoslang*"]
+
+[tool.setuptools.package-data]
+indoslang = [
+    "py.typed",
+    "data/schema/*.json",
+    "data/dictionaries/*.json",
+    "data/rules/*.json",
+    "data/rules/*.txt",
+    "data/vocab/*.txt",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-v --tb=short"

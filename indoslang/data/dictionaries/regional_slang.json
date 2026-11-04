@@ -1,0 +1,1514 @@
+{
+  "apik": {
+    "senses": [
+      {
+        "normalized": "bagus",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "suwun": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "matur nuwun": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "matur suwun": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kesuwun": {
+    "senses": [
+      {
+        "normalized": "terima kasih banyak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "monggo": {
+    "senses": [
+      {
+        "normalized": "silakan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mangga": {
+    "senses": [
+      {
+        "normalized": "silakan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "iyo": {
+    "senses": [
+      {
+        "normalized": "iya",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ora": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mangan": {
+    "senses": [
+      {
+        "normalized": "makan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "turu": {
+    "senses": [
+      {
+        "normalized": "tidur",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "konco": {
+    "senses": [
+      {
+        "normalized": "teman",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kanca": {
+    "senses": [
+      {
+        "normalized": "teman",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "arekan": {
+    "senses": [
+      {
+        "normalized": "kawan-kawan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wes": {
+    "senses": [
+      {
+        "normalized": "sudah",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wis": {
+    "senses": [
+      {
+        "normalized": "sudah",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "uwes": {
+    "senses": [
+      {
+        "normalized": "sudah",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "durung": {
+    "senses": [
+      {
+        "normalized": "belum",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "dereng": {
+    "senses": [
+      {
+        "normalized": "belum",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "piye": {
+    "senses": [
+      {
+        "normalized": "bagaimana",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kepriye": {
+    "senses": [
+      {
+        "normalized": "bagaimana",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngene": {
+    "senses": [
+      {
+        "normalized": "begini",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngono": {
+    "senses": [
+      {
+        "normalized": "begitu",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "saiki": {
+    "senses": [
+      {
+        "normalized": "sekarang",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sesuk": {
+    "senses": [
+      {
+        "normalized": "besok",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wingi": {
+    "senses": [
+      {
+        "normalized": "kemarin",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "guyon": {
+    "senses": [
+      {
+        "normalized": "bercanda",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mletre": {
+    "senses": [
+      {
+        "normalized": "tidak teratur",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ambyar": {
+    "senses": [
+      {
+        "normalized": "hancur berkeping-keping",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cidro": {
+    "senses": [
+      {
+        "normalized": "patah hati mendalam",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "loro ati": {
+    "senses": [
+      {
+        "normalized": "sakit hati",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngelu": {
+    "senses": [
+      {
+        "normalized": "pusing kepala",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kemaki": {
+    "senses": [
+      {
+        "normalized": "banyak tingkah sombong",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kemayu": {
+    "senses": [
+      {
+        "normalized": "sok cantik centil",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kemlinthi": {
+    "senses": [
+      {
+        "normalized": "banyak tingkah bergaya",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cangkeman": {
+    "senses": [
+      {
+        "normalized": "banyak bicara kotor",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "jancuk": {
+    "senses": [
+      {
+        "normalized": "umpatan surabaya",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "jancok": {
+    "senses": [
+      {
+        "normalized": "umpatan surabaya",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cok": {
+    "senses": [
+      {
+        "normalized": "panggilan kawan akrab surabaya",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "asu": {
+    "senses": [
+      {
+        "normalized": "umpatan anjing jawa",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "matamu": {
+    "senses": [
+      {
+        "normalized": "umpatan matamu",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ndasmu": {
+    "senses": [
+      {
+        "normalized": "umpatan kepalamu",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "dancok": {
+    "senses": [
+      {
+        "normalized": "umpatan kasar",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "dolan": {
+    "senses": [
+      {
+        "normalized": "main bepergian",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mlaku-mlaku": {
+    "senses": [
+      {
+        "normalized": "jalan-jalan santai",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mlaku": {
+    "senses": [
+      {
+        "normalized": "berjalan kaki",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mumbul": {
+    "senses": [
+      {
+        "normalized": "melambung tinggi",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "njeblug": {
+    "senses": [
+      {
+        "normalized": "meledak keras",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ambrol": {
+    "senses": [
+      {
+        "normalized": "jebol roboh",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ambruk": {
+    "senses": [
+      {
+        "normalized": "roboh tumbang",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngguyu": {
+    "senses": [
+      {
+        "normalized": "tertawa senang",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mesem": {
+    "senses": [
+      {
+        "normalized": "tersenyum simpul",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "isoh": {
+    "senses": [
+      {
+        "normalized": "bisa",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "iso": {
+    "senses": [
+      {
+        "normalized": "bisa",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "raiso": {
+    "senses": [
+      {
+        "normalized": "tidak bisa",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "rapopo": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ora popo": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ora ceto": {
+    "senses": [
+      {
+        "normalized": "tidak jelas",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ra ceto": {
+    "senses": [
+      {
+        "normalized": "tidak jelas",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ceto": {
+    "senses": [
+      {
+        "normalized": "jelas terang",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gayeng": {
+    "senses": [
+      {
+        "normalized": "meriah menyenangkan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ayem": {
+    "senses": [
+      {
+        "normalized": "tenang damai",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tentrem": {
+    "senses": [
+      {
+        "normalized": "tentram sentosa",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "adem": {
+    "senses": [
+      {
+        "normalized": "sejuk dingin",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sumuk": {
+    "senses": [
+      {
+        "normalized": "gerah kepanasan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wareg": {
+    "senses": [
+      {
+        "normalized": "kenyang makan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "luwe": {
+    "senses": [
+      {
+        "normalized": "lapar sekali",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngelak": {
+    "senses": [
+      {
+        "normalized": "haus dahaga",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "lungo": {
+    "senses": [
+      {
+        "normalized": "pergi berangkat",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "teko": {
+    "senses": [
+      {
+        "normalized": "datang tiba",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "muleh": {
+    "senses": [
+      {
+        "normalized": "pulang ke rumah",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mulih": {
+    "senses": [
+      {
+        "normalized": "pulang ke rumah",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "omah": {
+    "senses": [
+      {
+        "normalized": "rumah tinggal",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bocah2": {
+    "senses": [
+      {
+        "normalized": "anak-anak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "geulis": {
+    "senses": [
+      {
+        "normalized": "cantik rupawan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kasep": {
+    "senses": [
+      {
+        "normalized": "tampan rupawan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kumaha": {
+    "senses": [
+      {
+        "normalized": "bagaimana kabarnya",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "aing": {
+    "senses": [
+      {
+        "normalized": "saya",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "maneh": {
+    "senses": [
+      {
+        "normalized": "kamu",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nuhun": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hatur nuhun": {
+    "senses": [
+      {
+        "normalized": "terima kasih banyak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sami-sami": {
+    "senses": [
+      {
+        "normalized": "sama-sama",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "punten": {
+    "senses": [
+      {
+        "normalized": "permisi maaf",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mangga atuh": {
+    "senses": [
+      {
+        "normalized": "silakan mari",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "atuh": {
+    "senses": [
+      {
+        "normalized": "lah gerangan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "teh": {
+    "senses": [
+      {
+        "normalized": "itu penegas",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mah": {
+    "senses": [
+      {
+        "normalized": "sih penegas",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "euy": {
+    "senses": [
+      {
+        "normalized": "nih kawan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "caludih": {
+    "senses": [
+      {
+        "normalized": "jorok tidak rapi",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "geura": {
+    "senses": [
+      {
+        "normalized": "segeralah cepat",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hayu": {
+    "senses": [
+      {
+        "normalized": "ayo mari",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hayuk": {
+    "senses": [
+      {
+        "normalized": "ayo mari",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "enya": {
+    "senses": [
+      {
+        "normalized": "iya benar",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "henteu": {
+    "senses": [
+      {
+        "normalized": "tidak menolak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "teu": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "teu nanaon": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "teu puguh": {
+    "senses": [
+      {
+        "normalized": "tidak menentu",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "puguh": {
+    "senses": [
+      {
+        "normalized": "pasti jelas",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bobogohan": {
+    "senses": [
+      {
+        "normalized": "berpacaran",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bogoh": {
+    "senses": [
+      {
+        "normalized": "jatuh cinta",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "resep": {
+    "senses": [
+      {
+        "normalized": "suka menyenangi",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gandeng": {
+    "senses": [
+      {
+        "normalized": "berisik bising",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hareudang": {
+    "senses": [
+      {
+        "normalized": "gerah berhawa panas",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tunduh": {
+    "senses": [
+      {
+        "normalized": "mengantuk berat",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bobo": {
+    "senses": [
+      {
+        "normalized": "tidur nyenyak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "emam": {
+    "senses": [
+      {
+        "normalized": "makan makanan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tuang": {
+    "senses": [
+      {
+        "normalized": "makan terhormat",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngaleueut": {
+    "senses": [
+      {
+        "normalized": "minum minuman",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "calik": {
+    "senses": [
+      {
+        "normalized": "duduk manis",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "angkleung": {
+    "senses": [
+      {
+        "normalized": "terombang-ambing",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bageur": {
+    "senses": [
+      {
+        "normalized": "baik hati penurut",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pinter": {
+    "senses": [
+      {
+        "normalized": "pandai cerdas",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bade": {
+    "senses": [
+      {
+        "normalized": "akan hendak",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kamana": {
+    "senses": [
+      {
+        "normalized": "ke mana pergi",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "timana": {
+    "senses": [
+      {
+        "normalized": "dari mana datang",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "iraha": {
+    "senses": [
+      {
+        "normalized": "kapan waktunya",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "saha": {
+    "senses": [
+      {
+        "normalized": "siapa gerangan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "naon": {
+    "senses": [
+      {
+        "normalized": "apa itu",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "naha": {
+    "senses": [
+      {
+        "normalized": "kenapa gerangan",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tong": {
+    "senses": [
+      {
+        "normalized": "janganlah",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ulah": {
+    "senses": [
+      {
+        "normalized": "janganlah berbuat",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sakedap": {
+    "senses": [
+      {
+        "normalized": "sebentar saja",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sakedeung": {
+    "senses": [
+      {
+        "normalized": "sebentar saja",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "damang": {
+    "senses": [
+      {
+        "normalized": "sehat walafiat",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cageur": {
+    "senses": [
+      {
+        "normalized": "sembuh sehat",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sing": {
+    "senses": [
+      {
+        "normalized": "semoga kiranya",
+        "category": "regional",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  }
+}

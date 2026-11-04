@@ -1,0 +1,6023 @@
+{
+  "jgn": {
+    "senses": [
+      {
+        "normalized": "jangan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bgt": {
+    "senses": [
+      {
+        "normalized": "banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bsk": {
+    "senses": [
+      {
+        "normalized": "besok",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ktmuan": {
+    "senses": [
+      {
+        "normalized": "ketemuan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "yg": {
+    "senses": [
+      {
+        "normalized": "yang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dgn": {
+    "senses": [
+      {
+        "normalized": "dengan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sdh": {
+    "senses": [
+      {
+        "normalized": "sudah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "blm": {
+    "senses": [
+      {
+        "normalized": "belum",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tp": {
+    "senses": [
+      {
+        "normalized": "tetapi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "klo": {
+    "senses": [
+      {
+        "normalized": "kalau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kl": {
+    "senses": [
+      {
+        "normalized": "kalau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kalo": {
+    "senses": [
+      {
+        "normalized": "kalau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "krn": {
+    "senses": [
+      {
+        "normalized": "karena",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "karna": {
+    "senses": [
+      {
+        "normalized": "karena",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dr": {
+    "senses": [
+      {
+        "normalized": "dari",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "utk": {
+    "senses": [
+      {
+        "normalized": "untuk",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dlm": {
+    "senses": [
+      {
+        "normalized": "dalam",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pd": {
+    "senses": [
+      {
+        "normalized": "pada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sy": {
+    "senses": [
+      {
+        "normalized": "saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gw": {
+    "senses": [
+      {
+        "normalized": "saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gue": {
+    "senses": [
+      {
+        "normalized": "saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gua": {
+    "senses": [
+      {
+        "normalized": "saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lu": {
+    "senses": [
+      {
+        "normalized": "kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lo": {
+    "senses": [
+      {
+        "normalized": "kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "elo": {
+    "senses": [
+      {
+        "normalized": "kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "elu": {
+    "senses": [
+      {
+        "normalized": "kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "km": {
+    "senses": [
+      {
+        "normalized": "kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kmu": {
+    "senses": [
+      {
+        "normalized": "kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tdk": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gak": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "nggak": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ga": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "g": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bkn": {
+    "senses": [
+      {
+        "normalized": "bukan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bener": {
+    "senses": [
+      {
+        "normalized": "benar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "emg": {
+    "senses": [
+      {
+        "normalized": "memang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "emang": {
+    "senses": [
+      {
+        "normalized": "memang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bgtu": {
+    "senses": [
+      {
+        "normalized": "begitu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gmn": {
+    "senses": [
+      {
+        "normalized": "bagaimana",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gimana": {
+    "senses": [
+      {
+        "normalized": "bagaimana",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "knp": {
+    "senses": [
+      {
+        "normalized": "kenapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "trs": {
+    "senses": [
+      {
+        "normalized": "terus",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lbh": {
+    "senses": [
+      {
+        "normalized": "lebih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bnyk": {
+    "senses": [
+      {
+        "normalized": "banyak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "byk": {
+    "senses": [
+      {
+        "normalized": "banyak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "org": {
+    "senses": [
+      {
+        "normalized": "orang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tmn": {
+    "senses": [
+      {
+        "normalized": "teman",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "temen": {
+    "senses": [
+      {
+        "normalized": "teman",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "no wa": {
+    "senses": [
+      {
+        "normalized": "nomor whatsapp",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "wa": {
+    "senses": [
+      {
+        "normalized": "whatsapp",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "hp": {
+    "senses": [
+      {
+        "normalized": "handphone",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bgs": {
+    "senses": [
+      {
+        "normalized": "bagus",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "olshop": {
+    "senses": [
+      {
+        "normalized": "toko daring",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ol": {
+    "senses": [
+      {
+        "normalized": "dalam jaringan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "toko ol": {
+    "senses": [
+      {
+        "normalized": "toko daring",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tdr": {
+    "senses": [
+      {
+        "normalized": "tidur",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mkn": {
+    "senses": [
+      {
+        "normalized": "makan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "udh": {
+    "senses": [
+      {
+        "normalized": "sudah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "udah": {
+    "senses": [
+      {
+        "normalized": "sudah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "uda": {
+    "senses": [
+      {
+        "normalized": "sudah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "skrg": {
+    "senses": [
+      {
+        "normalized": "sekarang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "skrang": {
+    "senses": [
+      {
+        "normalized": "sekarang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "skg": {
+    "senses": [
+      {
+        "normalized": "sekarang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "td": {
+    "senses": [
+      {
+        "normalized": "tadi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bbrp": {
+    "senses": [
+      {
+        "normalized": "beberapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "smw": {
+    "senses": [
+      {
+        "normalized": "semua",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "semuax": {
+    "senses": [
+      {
+        "normalized": "semuanya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "adlh": {
+    "senses": [
+      {
+        "normalized": "adalah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sbg": {
+    "senses": [
+      {
+        "normalized": "sebagai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ttg": {
+    "senses": [
+      {
+        "normalized": "tentang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dpt": {
+    "senses": [
+      {
+        "normalized": "dapat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "msh": {
+    "senses": [
+      {
+        "normalized": "masih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mseh": {
+    "senses": [
+      {
+        "normalized": "masih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lg": {
+    "senses": [
+      {
+        "normalized": "lagi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lgi": {
+    "senses": [
+      {
+        "normalized": "lagi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "aja": {
+    "senses": [
+      {
+        "normalized": "saja",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sj": {
+    "senses": [
+      {
+        "normalized": "saja",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cmn": {
+    "senses": [
+      {
+        "normalized": "cuma",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "doang": {
+    "senses": [
+      {
+        "normalized": "saja",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "nih": {
+    "senses": [
+      {
+        "normalized": "ini",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tuh": {
+    "senses": [
+      {
+        "normalized": "itu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gini": {
+    "senses": [
+      {
+        "normalized": "begini",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gitu": {
+    "senses": [
+      {
+        "normalized": "begitu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gt": {
+    "senses": [
+      {
+        "normalized": "begitu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bnr": {
+    "senses": [
+      {
+        "normalized": "benar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "beneran": {
+    "senses": [
+      {
+        "normalized": "sungguhan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bener bgt": {
+    "senses": [
+      {
+        "normalized": "benar banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bknnya": {
+    "senses": [
+      {
+        "normalized": "bukannya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "jg": {
+    "senses": [
+      {
+        "normalized": "juga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "jga": {
+    "senses": [
+      {
+        "normalized": "juga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "smntara": {
+    "senses": [
+      {
+        "normalized": "sementara",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kyk": {
+    "senses": [
+      {
+        "normalized": "seperti",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kek": {
+    "senses": [
+      {
+        "normalized": "seperti",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kaya": {
+    "senses": [
+      {
+        "normalized": "seperti",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kayak": {
+    "senses": [
+      {
+        "normalized": "seperti",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bs": {
+    "senses": [
+      {
+        "normalized": "bisa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "makasi": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "makasih": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "makaci": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tengkyu": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "thx": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ty": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tq": {
+    "senses": [
+      {
+        "normalized": "terima kasih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sama2": {
+    "senses": [
+      {
+        "normalized": "sama-sama",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sm2": {
+    "senses": [
+      {
+        "normalized": "sama-sama",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pls": {
+    "senses": [
+      {
+        "normalized": "tolong",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "plz": {
+    "senses": [
+      {
+        "normalized": "tolong",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tlng": {
+    "senses": [
+      {
+        "normalized": "tolong",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tlg": {
+    "senses": [
+      {
+        "normalized": "tolong",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "maap": {
+    "senses": [
+      {
+        "normalized": "maaf",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sory": {
+    "senses": [
+      {
+        "normalized": "maaf",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sorry": {
+    "senses": [
+      {
+        "normalized": "maaf",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kmrn": {
+    "senses": [
+      {
+        "normalized": "kemarin",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kmari": {
+    "senses": [
+      {
+        "normalized": "kemari",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ksana": {
+    "senses": [
+      {
+        "normalized": "kesana",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kmn": {
+    "senses": [
+      {
+        "normalized": "kemana",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dimn": {
+    "senses": [
+      {
+        "normalized": "dimana",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dimana2": {
+    "senses": [
+      {
+        "normalized": "dimana-mana",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dmn": {
+    "senses": [
+      {
+        "normalized": "dimana",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "syp": {
+    "senses": [
+      {
+        "normalized": "siapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "spa": {
+    "senses": [
+      {
+        "normalized": "siapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "aplh": {
+    "senses": [
+      {
+        "normalized": "apalah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "apapn": {
+    "senses": [
+      {
+        "normalized": "apapun",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngapain": {
+    "senses": [
+      {
+        "normalized": "sedang apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngapain2": {
+    "senses": [
+      {
+        "normalized": "berbuat apa-apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "knpa": {
+    "senses": [
+      {
+        "normalized": "kenapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngapa": {
+    "senses": [
+      {
+        "normalized": "kenapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "knp ya": {
+    "senses": [
+      {
+        "normalized": "kenapa ya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gpp": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gapapa": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tdk apa apa": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "nggak apa apa": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ga papa": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gak papa": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "beneran deh": {
+    "senses": [
+      {
+        "normalized": "sungguh-sungguh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cmiiw": {
+    "senses": [
+      {
+        "normalized": "koreksi jika saya salah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "fyi": {
+    "senses": [
+      {
+        "normalized": "untuk informasi anda",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "otw": {
+    "senses": [
+      {
+        "normalized": "dalam perjalanan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "asap": {
+    "senses": [
+      {
+        "normalized": "secepat mungkin",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tbh": {
+    "senses": [
+      {
+        "normalized": "sejujurnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "idk": {
+    "senses": [
+      {
+        "normalized": "saya tidak tahu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "imo": {
+    "senses": [
+      {
+        "normalized": "menurut pendapat saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "imho": {
+    "senses": [
+      {
+        "normalized": "menurut hemat saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "hbd": {
+    "senses": [
+      {
+        "normalized": "selamat ulang tahun",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gws": {
+    "senses": [
+      {
+        "normalized": "semoga lekas sembuh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cod": {
+    "senses": [
+      {
+        "normalized": "bayar di tempat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dm": {
+    "senses": [
+      {
+        "normalized": "pesan langsung",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pm": {
+    "senses": [
+      {
+        "normalized": "pesan pribadi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pc": {
+    "senses": [
+      {
+        "normalized": "pesan pribadi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "vc": {
+    "senses": [
+      {
+        "normalized": "panggilan video",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "vn": {
+    "senses": [
+      {
+        "normalized": "pesan suara",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tc": {
+    "senses": [
+      {
+        "normalized": "tes kontak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dp": {
+    "senses": [
+      {
+        "normalized": "uang muka",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "po": {
+    "senses": [
+      {
+        "normalized": "pra pesan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "rek": {
+    "senses": [
+      {
+        "normalized": "rekening",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ongkir": {
+    "senses": [
+      {
+        "normalized": "ongkos kirim",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "freeongkir": {
+    "senses": [
+      {
+        "normalized": "bebas ongkos kirim",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "reseller": {
+    "senses": [
+      {
+        "normalized": "penjual kembali",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "olx": {
+    "senses": [
+      {
+        "normalized": "jual beli daring",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tf": {
+    "senses": [
+      {
+        "normalized": "transfer",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "trf": {
+    "senses": [
+      {
+        "normalized": "transfer",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "trans": {
+    "senses": [
+      {
+        "normalized": "transfer",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tf-an": {
+    "senses": [
+      {
+        "normalized": "transferan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "rekber": {
+    "senses": [
+      {
+        "normalized": "rekening bersama",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "no": {
+    "senses": [
+      {
+        "normalized": "nomor",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "nmr": {
+    "senses": [
+      {
+        "normalized": "nomor",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "no hp": {
+    "senses": [
+      {
+        "normalized": "nomor telepon genggam",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "no telp": {
+    "senses": [
+      {
+        "normalized": "nomor telepon",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "telp": {
+    "senses": [
+      {
+        "normalized": "telepon",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tlp": {
+    "senses": [
+      {
+        "normalized": "telepon",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "telfon": {
+    "senses": [
+      {
+        "normalized": "telepon",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pic": {
+    "senses": [
+      {
+        "normalized": "penanggung jawab",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cp": {
+    "senses": [
+      {
+        "normalized": "kontak person",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "an": {
+    "senses": [
+      {
+        "normalized": "atas nama",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "a.n": {
+    "senses": [
+      {
+        "normalized": "atas nama",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "a/n": {
+    "senses": [
+      {
+        "normalized": "atas nama",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ub": {
+    "senses": [
+      {
+        "normalized": "untuk beliau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "u.b": {
+    "senses": [
+      {
+        "normalized": "untuk beliau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "da": {
+    "senses": [
+      {
+        "normalized": "dengan alamat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "d.a": {
+    "senses": [
+      {
+        "normalized": "dengan alamat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "up": {
+    "senses": [
+      {
+        "normalized": "untuk perhatian",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "u.p": {
+    "senses": [
+      {
+        "normalized": "untuk perhatian",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dll": {
+    "senses": [
+      {
+        "normalized": "dan lain-lain",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dsb": {
+    "senses": [
+      {
+        "normalized": "dan sebagainya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dst": {
+    "senses": [
+      {
+        "normalized": "dan seterusnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ttd": {
+    "senses": [
+      {
+        "normalized": "tanda tangan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tsb": {
+    "senses": [
+      {
+        "normalized": "tersebut",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "spt": {
+    "senses": [
+      {
+        "normalized": "seperti",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cth": {
+    "senses": [
+      {
+        "normalized": "contoh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mis": {
+    "senses": [
+      {
+        "normalized": "misalnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "misal": {
+    "senses": [
+      {
+        "normalized": "misalnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bbm": {
+    "senses": [
+      {
+        "normalized": "bahan bakar minyak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "simcard": {
+    "senses": [
+      {
+        "normalized": "kartu sim",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "rt": {
+    "senses": [
+      {
+        "normalized": "rukun tetangga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "rw": {
+    "senses": [
+      {
+        "normalized": "rukun warga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kel": {
+    "senses": [
+      {
+        "normalized": "kelurahan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kec": {
+    "senses": [
+      {
+        "normalized": "kecamatan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kab": {
+    "senses": [
+      {
+        "normalized": "kabupaten",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "prov": {
+    "senses": [
+      {
+        "normalized": "provinsi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ad": {
+    "senses": [
+      {
+        "normalized": "ada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ak": {
+    "senses": [
+      {
+        "normalized": "aku",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "aq": {
+    "senses": [
+      {
+        "normalized": "aku",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ank": {
+    "senses": [
+      {
+        "normalized": "anak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ank2": {
+    "senses": [
+      {
+        "normalized": "anak-anak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bknny": {
+    "senses": [
+      {
+        "normalized": "bukannya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "blg": {
+    "senses": [
+      {
+        "normalized": "bilang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bntr": {
+    "senses": [
+      {
+        "normalized": "sebentar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bntar": {
+    "senses": [
+      {
+        "normalized": "sebentar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sebntr": {
+    "senses": [
+      {
+        "normalized": "sebentar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "brp": {
+    "senses": [
+      {
+        "normalized": "berapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "brapa": {
+    "senses": [
+      {
+        "normalized": "berapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "brpa": {
+    "senses": [
+      {
+        "normalized": "berapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "btul": {
+    "senses": [
+      {
+        "normalized": "betul",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "btl": {
+    "senses": [
+      {
+        "normalized": "betul",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cpt": {
+    "senses": [
+      {
+        "normalized": "cepat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cepet": {
+    "senses": [
+      {
+        "normalized": "cepat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cpet": {
+    "senses": [
+      {
+        "normalized": "cepat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "d": {
+    "senses": [
+      {
+        "normalized": "di",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dl": {
+    "senses": [
+      {
+        "normalized": "dulu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dlu": {
+    "senses": [
+      {
+        "normalized": "dulu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dn": {
+    "senses": [
+      {
+        "normalized": "dan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dptkn": {
+    "senses": [
+      {
+        "normalized": "dapatkan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dtg": {
+    "senses": [
+      {
+        "normalized": "datang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dtng": {
+    "senses": [
+      {
+        "normalized": "datang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dtd": {
+    "senses": [
+      {
+        "normalized": "datang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gmnpun": {
+    "senses": [
+      {
+        "normalized": "bagaimanapun",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gr2": {
+    "senses": [
+      {
+        "normalized": "gara-gara",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gara2": {
+    "senses": [
+      {
+        "normalized": "gara-gara",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "hdp": {
+    "senses": [
+      {
+        "normalized": "hidup",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ilang": {
+    "senses": [
+      {
+        "normalized": "hilang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "inget": {
+    "senses": [
+      {
+        "normalized": "ingat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "igt": {
+    "senses": [
+      {
+        "normalized": "ingat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "itung": {
+    "senses": [
+      {
+        "normalized": "hitung",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "jdi": {
+    "senses": [
+      {
+        "normalized": "jadi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "jd": {
+    "senses": [
+      {
+        "normalized": "jadi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "jln": {
+    "senses": [
+      {
+        "normalized": "jalan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "jlan": {
+    "senses": [
+      {
+        "normalized": "jalan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "janjian": {
+    "senses": [
+      {
+        "normalized": "berjanji",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "k": {
+    "senses": [
+      {
+        "normalized": "ke",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kaga": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kagak": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kpn": {
+    "senses": [
+      {
+        "normalized": "kapan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kta": {
+    "senses": [
+      {
+        "normalized": "kita",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kt": {
+    "senses": [
+      {
+        "normalized": "kita",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kpd": {
+    "senses": [
+      {
+        "normalized": "kepada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kpdku": {
+    "senses": [
+      {
+        "normalized": "kepadaku",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kpada": {
+    "senses": [
+      {
+        "normalized": "kepada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kpn2": {
+    "senses": [
+      {
+        "normalized": "kapan-kapan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "krm": {
+    "senses": [
+      {
+        "normalized": "kirim",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "krmkan": {
+    "senses": [
+      {
+        "normalized": "kirimkan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lgsg": {
+    "senses": [
+      {
+        "normalized": "langsung",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lgsh": {
+    "senses": [
+      {
+        "normalized": "langsung",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lngsng": {
+    "senses": [
+      {
+        "normalized": "langsung",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "liat": {
+    "senses": [
+      {
+        "normalized": "lihat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lht": {
+    "senses": [
+      {
+        "normalized": "lihat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "liat2": {
+    "senses": [
+      {
+        "normalized": "lihat-lihat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "llu": {
+    "senses": [
+      {
+        "normalized": "lalu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "maksudny": {
+    "senses": [
+      {
+        "normalized": "maksudnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mksd": {
+    "senses": [
+      {
+        "normalized": "maksud",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mksdnya": {
+    "senses": [
+      {
+        "normalized": "maksudnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mnta": {
+    "senses": [
+      {
+        "normalized": "minta",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mnt": {
+    "senses": [
+      {
+        "normalized": "minta",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mnrt": {
+    "senses": [
+      {
+        "normalized": "menurut",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mnrtku": {
+    "senses": [
+      {
+        "normalized": "menurutku",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mngkn": {
+    "senses": [
+      {
+        "normalized": "mungkin",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mgkn": {
+    "senses": [
+      {
+        "normalized": "mungkin",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mw": {
+    "senses": [
+      {
+        "normalized": "mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mo": {
+    "senses": [
+      {
+        "normalized": "mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ndak": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "nda": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ndk": {
+    "senses": [
+      {
+        "normalized": "tidak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngasi": {
+    "senses": [
+      {
+        "normalized": "memberi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngasih": {
+    "senses": [
+      {
+        "normalized": "memberi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngeliat": {
+    "senses": [
+      {
+        "normalized": "melihat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngerti": {
+    "senses": [
+      {
+        "normalized": "mengerti",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngrasa": {
+    "senses": [
+      {
+        "normalized": "merasa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "nyari": {
+    "senses": [
+      {
+        "normalized": "mencari",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "org2": {
+    "senses": [
+      {
+        "normalized": "orang-orang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pake": {
+    "senses": [
+      {
+        "normalized": "pakai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pkai": {
+    "senses": [
+      {
+        "normalized": "pakai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pke": {
+    "senses": [
+      {
+        "normalized": "pakai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pakek": {
+    "senses": [
+      {
+        "normalized": "pakai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pagi2": {
+    "senses": [
+      {
+        "normalized": "pagi-pagi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "prnh": {
+    "senses": [
+      {
+        "normalized": "pernah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pnh": {
+    "senses": [
+      {
+        "normalized": "pernah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "palingan": {
+    "senses": [
+      {
+        "normalized": "paling",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pling": {
+    "senses": [
+      {
+        "normalized": "paling",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "plg": {
+    "senses": [
+      {
+        "normalized": "paling",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ptg": {
+    "senses": [
+      {
+        "normalized": "penting",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pntg": {
+    "senses": [
+      {
+        "normalized": "penting",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "rb": {
+    "senses": [
+      {
+        "normalized": "ribu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "rbu": {
+    "senses": [
+      {
+        "normalized": "ribu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sampe": {
+    "senses": [
+      {
+        "normalized": "sampai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ampe": {
+    "senses": [
+      {
+        "normalized": "sampai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "smpe": {
+    "senses": [
+      {
+        "normalized": "sampai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sapa": {
+    "senses": [
+      {
+        "normalized": "siapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sblm": {
+    "senses": [
+      {
+        "normalized": "sebelum",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sbelum": {
+    "senses": [
+      {
+        "normalized": "sebelum",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sblmnya": {
+    "senses": [
+      {
+        "normalized": "sebelumnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sdg": {
+    "senses": [
+      {
+        "normalized": "sedang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sdgkn": {
+    "senses": [
+      {
+        "normalized": "sedangkan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sdgkan": {
+    "senses": [
+      {
+        "normalized": "sedangkan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sekali2": {
+    "senses": [
+      {
+        "normalized": "sekali-kali",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "skali": {
+    "senses": [
+      {
+        "normalized": "sekali",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "skl": {
+    "senses": [
+      {
+        "normalized": "sekali",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "slalu": {
+    "senses": [
+      {
+        "normalized": "selalu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sll": {
+    "senses": [
+      {
+        "normalized": "selalu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "slm": {
+    "senses": [
+      {
+        "normalized": "salam",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "slmt": {
+    "senses": [
+      {
+        "normalized": "selamat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sore2": {
+    "senses": [
+      {
+        "normalized": "sore-sore",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sptny": {
+    "senses": [
+      {
+        "normalized": "sepertinya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sptnya": {
+    "senses": [
+      {
+        "normalized": "sepertinya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tau": {
+    "senses": [
+      {
+        "normalized": "tahu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tw": {
+    "senses": [
+      {
+        "normalized": "tahu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "taunya": {
+    "senses": [
+      {
+        "normalized": "tahunya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tbtb": {
+    "senses": [
+      {
+        "normalized": "tiba-tiba",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tiba2": {
+    "senses": [
+      {
+        "normalized": "tiba-tiba",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tk": {
+    "senses": [
+      {
+        "normalized": "taman kanak-kanak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tmen": {
+    "senses": [
+      {
+        "normalized": "teman",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tp2": {
+    "senses": [
+      {
+        "normalized": "tebar pesona",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ts": {
+    "senses": [
+      {
+        "normalized": "penulis benang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "utknya": {
+    "senses": [
+      {
+        "normalized": "untuknya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "wkt": {
+    "senses": [
+      {
+        "normalized": "waktu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "wktu": {
+    "senses": [
+      {
+        "normalized": "waktu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "wktu2": {
+    "senses": [
+      {
+        "normalized": "waktu-waktu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "y": {
+    "senses": [
+      {
+        "normalized": "ya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "yaudah": {
+    "senses": [
+      {
+        "normalized": "ya sudah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ywdh": {
+    "senses": [
+      {
+        "normalized": "ya sudah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "yws": {
+    "senses": [
+      {
+        "normalized": "ya sudah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "zonk": {
+    "senses": [
+      {
+        "normalized": "kosong",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "skalian": {
+    "senses": [
+      {
+        "normalized": "sekalian",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bocil": {
+    "senses": [
+      {
+        "normalized": "bocah kecil",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bumil": {
+    "senses": [
+      {
+        "normalized": "ibu hamil",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "busui": {
+    "senses": [
+      {
+        "normalized": "ibu menyusui",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ranmor": {
+    "senses": [
+      {
+        "normalized": "kendaraan bermotor",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "curanmor": {
+    "senses": [
+      {
+        "normalized": "pencurian kendaraan bermotor",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tilang": {
+    "senses": [
+      {
+        "normalized": "bukti pelanggaran",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sim": {
+    "senses": [
+      {
+        "normalized": "surat izin mengemudi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "stnk": {
+    "senses": [
+      {
+        "normalized": "surat tanda nomor kendaraan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bpkb": {
+    "senses": [
+      {
+        "normalized": "buku pemilik kendaraan bermotor",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "warnet": {
+    "senses": [
+      {
+        "normalized": "warung internet",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "wartel": {
+    "senses": [
+      {
+        "normalized": "warung telekomunikasi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "warkop": {
+    "senses": [
+      {
+        "normalized": "warung kopi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "warteg": {
+    "senses": [
+      {
+        "normalized": "warung tegal",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "roker": {
+    "senses": [
+      {
+        "normalized": "rombongan kereta",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "anjir": {
+    "senses": [
+      {
+        "normalized": "wah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "anjrit": {
+    "senses": [
+      {
+        "normalized": "wah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "anjay": {
+    "senses": [
+      {
+        "normalized": "wah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "anjim": {
+    "senses": [
+      {
+        "normalized": "wah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bego": {
+    "senses": [
+      {
+        "normalized": "bodoh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bloon": {
+    "senses": [
+      {
+        "normalized": "bodoh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tolol": {
+    "senses": [
+      {
+        "normalized": "bodoh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pea": {
+    "senses": [
+      {
+        "normalized": "bodoh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "oon": {
+    "senses": [
+      {
+        "normalized": "bodoh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dodol": {
+    "senses": [
+      {
+        "normalized": "bodoh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gabisa": {
+    "senses": [
+      {
+        "normalized": "tidak bisa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gabisalah": {
+    "senses": [
+      {
+        "normalized": "tidak bisalah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gamau": {
+    "senses": [
+      {
+        "normalized": "tidak mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gatau": {
+    "senses": [
+      {
+        "normalized": "tidak tahu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gapernah": {
+    "senses": [
+      {
+        "normalized": "tidak pernah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gasuka": {
+    "senses": [
+      {
+        "normalized": "tidak suka",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gada": {
+    "senses": [
+      {
+        "normalized": "tidak ada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gadak": {
+    "senses": [
+      {
+        "normalized": "tidak ada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gaada": {
+    "senses": [
+      {
+        "normalized": "tidak ada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gaenak": {
+    "senses": [
+      {
+        "normalized": "tidak enak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gamungkin": {
+    "senses": [
+      {
+        "normalized": "tidak mungkin",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gasempet": {
+    "senses": [
+      {
+        "normalized": "tidak sempat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gajadi": {
+    "senses": [
+      {
+        "normalized": "tidak jadi",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gabakal": {
+    "senses": [
+      {
+        "normalized": "tidak akan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gaboleh": {
+    "senses": [
+      {
+        "normalized": "tidak boleh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gaberani": {
+    "senses": [
+      {
+        "normalized": "tidak berani",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gacukup": {
+    "senses": [
+      {
+        "normalized": "tidak cukup",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gasabar": {
+    "senses": [
+      {
+        "normalized": "tidak sabar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gasadar": {
+    "senses": [
+      {
+        "normalized": "tidak sadar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gaperlu": {
+    "senses": [
+      {
+        "normalized": "tidak perlu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gapaham": {
+    "senses": [
+      {
+        "normalized": "tidak paham",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gapantes": {
+    "senses": [
+      {
+        "normalized": "tidak pantas",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gaterima": {
+    "senses": [
+      {
+        "normalized": "tidak terima",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gamodal": {
+    "senses": [
+      {
+        "normalized": "tidak modal",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gamampu": {
+    "senses": [
+      {
+        "normalized": "tidak mampu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gapunya": {
+    "senses": [
+      {
+        "normalized": "tidak punya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gapeduli": {
+    "senses": [
+      {
+        "normalized": "tidak peduli",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gakbisa": {
+    "senses": [
+      {
+        "normalized": "tidak bisa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gakmau": {
+    "senses": [
+      {
+        "normalized": "tidak mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gaktahu": {
+    "senses": [
+      {
+        "normalized": "tidak tahu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gakada": {
+    "senses": [
+      {
+        "normalized": "tidak ada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "gakenak": {
+    "senses": [
+      {
+        "normalized": "tidak enak",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ndakbisa": {
+    "senses": [
+      {
+        "normalized": "tidak bisa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ndakmau": {
+    "senses": [
+      {
+        "normalized": "tidak mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ndaktahu": {
+    "senses": [
+      {
+        "normalized": "tidak tahu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "takbisa": {
+    "senses": [
+      {
+        "normalized": "tidak bisa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "takmau": {
+    "senses": [
+      {
+        "normalized": "tidak mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "taktahu": {
+    "senses": [
+      {
+        "normalized": "tidak tahu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "takada": {
+    "senses": [
+      {
+        "normalized": "tidak ada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sdhkan": {
+    "senses": [
+      {
+        "normalized": "sudahkan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "blman": {
+    "senses": [
+      {
+        "normalized": "beluman",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mskipun": {
+    "senses": [
+      {
+        "normalized": "meskipun",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "walopun": {
+    "senses": [
+      {
+        "normalized": "walaupun",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "wlpn": {
+    "senses": [
+      {
+        "normalized": "walaupun",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "walupun": {
+    "senses": [
+      {
+        "normalized": "walaupun",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "smntr": {
+    "senses": [
+      {
+        "normalized": "sementara",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "dpin": {
+    "senses": [
+      {
+        "normalized": "diuang mukakan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "trfer": {
+    "senses": [
+      {
+        "normalized": "transfer",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "tfan": {
+    "senses": [
+      {
+        "normalized": "transferan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "olshopan": {
+    "senses": [
+      {
+        "normalized": "belanja daring",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "onlen": {
+    "senses": [
+      {
+        "normalized": "dalam jaringan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "oflen": {
+    "senses": [
+      {
+        "normalized": "luar jaringan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "luring": {
+    "senses": [
+      {
+        "normalized": "luar jaringan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "daring": {
+    "senses": [
+      {
+        "normalized": "dalam jaringan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kdg": {
+    "senses": [
+      {
+        "normalized": "kadang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kdg2": {
+    "senses": [
+      {
+        "normalized": "kadang-kadang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kadang2": {
+    "senses": [
+      {
+        "normalized": "kadang-kadang",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "skali2": {
+    "senses": [
+      {
+        "normalized": "sekali-kali",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bbrpa": {
+    "senses": [
+      {
+        "normalized": "beberapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sebenernya": {
+    "senses": [
+      {
+        "normalized": "sebenarnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sbnrnya": {
+    "senses": [
+      {
+        "normalized": "sebenarnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sbenarnya": {
+    "senses": [
+      {
+        "normalized": "sebenarnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "seharusny": {
+    "senses": [
+      {
+        "normalized": "seharusnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "shrsnya": {
+    "senses": [
+      {
+        "normalized": "seharusnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "stlh": {
+    "senses": [
+      {
+        "normalized": "setelah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "stlhnya": {
+    "senses": [
+      {
+        "normalized": "setelahnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pasca": {
+    "senses": [
+      {
+        "normalized": "setelah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pra": {
+    "senses": [
+      {
+        "normalized": "sebelum",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "smoga": {
+    "senses": [
+      {
+        "normalized": "semoga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "moga": {
+    "senses": [
+      {
+        "normalized": "semoga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "moga2": {
+    "senses": [
+      {
+        "normalized": "semoga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "smg": {
+    "senses": [
+      {
+        "normalized": "semoga",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mgknnya": {
+    "senses": [
+      {
+        "normalized": "mungkinnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pst": {
+    "senses": [
+      {
+        "normalized": "pasti",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "beneranlah": {
+    "senses": [
+      {
+        "normalized": "sungguhlah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bknkah": {
+    "senses": [
+      {
+        "normalized": "bukankah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kenapadeh": {
+    "senses": [
+      {
+        "normalized": "kenapa deh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "knpci": {
+    "senses": [
+      {
+        "normalized": "kenapa sih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "knpsih": {
+    "senses": [
+      {
+        "normalized": "kenapa sih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kenapasih": {
+    "senses": [
+      {
+        "normalized": "kenapa sih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ngapasih": {
+    "senses": [
+      {
+        "normalized": "kenapa sih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "adadeh": {
+    "senses": [
+      {
+        "normalized": "ada deh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "apasih": {
+    "senses": [
+      {
+        "normalized": "apa sih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "apaci": {
+    "senses": [
+      {
+        "normalized": "apa sih",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "iyadeh": {
+    "senses": [
+      {
+        "normalized": "iya deh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "iyade": {
+    "senses": [
+      {
+        "normalized": "iya deh",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ogah": {
+    "senses": [
+      {
+        "normalized": "tidak mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "emoh": {
+    "senses": [
+      {
+        "normalized": "tidak mau",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "males": {
+    "senses": [
+      {
+        "normalized": "malas",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "malesan": {
+    "senses": [
+      {
+        "normalized": "pemalas",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cape": {
+    "senses": [
+      {
+        "normalized": "lelah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "capek": {
+    "senses": [
+      {
+        "normalized": "lelah",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "pegel": {
+    "senses": [
+      {
+        "normalized": "pegal",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "capeknya": {
+    "senses": [
+      {
+        "normalized": "lelahnya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "keles": {
+    "senses": [
+      {
+        "normalized": "kali",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "keleus": {
+    "senses": [
+      {
+        "normalized": "kali",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kece": {
+    "senses": [
+      {
+        "normalized": "keren",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cakep": {
+    "senses": [
+      {
+        "normalized": "tampan atau cantik",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ganteng": {
+    "senses": [
+      {
+        "normalized": "tampan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "kece bgt": {
+    "senses": [
+      {
+        "normalized": "keren banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "asik bgt": {
+    "senses": [
+      {
+        "normalized": "asyik banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mantap bgt": {
+    "senses": [
+      {
+        "normalized": "mantap banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "keren bgt": {
+    "senses": [
+      {
+        "normalized": "keren banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "bagus bgt": {
+    "senses": [
+      {
+        "normalized": "bagus banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lucu bgt": {
+    "senses": [
+      {
+        "normalized": "lucu banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "enak bgt": {
+    "senses": [
+      {
+        "normalized": "enak banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lezat bgt": {
+    "senses": [
+      {
+        "normalized": "lezat banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "seger": {
+    "senses": [
+      {
+        "normalized": "segar",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "adem bgt": {
+    "senses": [
+      {
+        "normalized": "sejuk banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "panas bgt": {
+    "senses": [
+      {
+        "normalized": "panas banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "rame": {
+    "senses": [
+      {
+        "normalized": "ramai",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "ramean": {
+    "senses": [
+      {
+        "normalized": "bersama-sama",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "padet": {
+    "senses": [
+      {
+        "normalized": "padat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "macet bgt": {
+    "senses": [
+      {
+        "normalized": "macet banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "jauh bgt": {
+    "senses": [
+      {
+        "normalized": "jauh banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "deket": {
+    "senses": [
+      {
+        "normalized": "dekat",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "deket bgt": {
+    "senses": [
+      {
+        "normalized": "dekat banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cepet bgt": {
+    "senses": [
+      {
+        "normalized": "cepat banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "lambat bgt": {
+    "senses": [
+      {
+        "normalized": "lambat banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "murah bgt": {
+    "senses": [
+      {
+        "normalized": "murah banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "mahal bgt": {
+    "senses": [
+      {
+        "normalized": "mahal banget",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "cm kamu": {
+    "senses": [
+      {
+        "normalized": "cuma kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm satu": {
+    "senses": [
+      {
+        "normalized": "cuma satu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm dia": {
+    "senses": [
+      {
+        "normalized": "cuma dia",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm kita": {
+    "senses": [
+      {
+        "normalized": "cuma kita",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm saya": {
+    "senses": [
+      {
+        "normalized": "cuma saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm gw": {
+    "senses": [
+      {
+        "normalized": "cuma saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm lu": {
+    "senses": [
+      {
+        "normalized": "cuma kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm ada": {
+    "senses": [
+      {
+        "normalized": "cuma ada",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm bisa": {
+    "senses": [
+      {
+        "normalized": "cuma bisa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sm dia": {
+    "senses": [
+      {
+        "normalized": "sama dia",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sm kamu": {
+    "senses": [
+      {
+        "normalized": "sama kamu",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sm siapa": {
+    "senses": [
+      {
+        "normalized": "sama siapa",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sm gw": {
+    "senses": [
+      {
+        "normalized": "sama saya",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sm kita": {
+    "senses": [
+      {
+        "normalized": "sama kita",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sm siapa saja": {
+    "senses": [
+      {
+        "normalized": "sama siapa saja",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pp jakarta bandung": {
+    "senses": [
+      {
+        "normalized": "pulang pergi jakarta bandung",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cm": {
+    "senses": [
+      {
+        "normalized": "cuma",
+        "category": "abbreviation",
+        "confidence": 0.75,
+        "context_hint": [
+          "cm kamu",
+          "cm satu"
+        ]
+      },
+      {
+        "normalized": "sentimeter",
+        "category": "unit",
+        "confidence": 0.25,
+        "context_hint": [
+          "\\d+ ?cm"
+        ]
+      }
+    ],
+    "ambiguous": true,
+    "source": "colloquial_lexicon_salsabila",
+    "license": "MIT"
+  },
+  "sm": {
+    "senses": [
+      {
+        "normalized": "sama",
+        "category": "abbreviation",
+        "confidence": 0.8,
+        "context_hint": [
+          "sm kamu",
+          "sm dia"
+        ]
+      },
+      {
+        "normalized": "social media",
+        "category": "abbreviation",
+        "confidence": 0.2,
+        "context_hint": [
+          "akun sm"
+        ]
+      }
+    ],
+    "ambiguous": true,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pp": {
+    "senses": [
+      {
+        "normalized": "profile picture",
+        "category": "abbreviation",
+        "confidence": 0.5,
+        "context_hint": [
+          "ganti pp"
+        ]
+      },
+      {
+        "normalized": "pulang-pergi",
+        "category": "abbreviation",
+        "confidence": 0.5,
+        "context_hint": [
+          "tiket pp"
+        ]
+      }
+    ],
+    "ambiguous": true,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ml": {
+    "senses": [
+      {
+        "normalized": "mobile legends",
+        "category": "slang",
+        "confidence": 0.5,
+        "context_hint": [
+          "mabar ml"
+        ]
+      },
+      {
+        "normalized": "mililiter",
+        "category": "unit",
+        "confidence": 0.5,
+        "context_hint": [
+          "\\d+ ?ml"
+        ]
+      }
+    ],
+    "ambiguous": true,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sma": {
+    "senses": [
+      {
+        "normalized": "sama",
+        "category": "abbreviation",
+        "confidence": 0.5,
+        "context_hint": [
+          "pergi sma"
+        ]
+      },
+      {
+        "normalized": "sekolah menengah atas",
+        "category": "abbreviation",
+        "confidence": 0.5,
+        "context_hint": [
+          "murid sma"
+        ]
+      }
+    ],
+    "ambiguous": true,
+    "source": "manual_curation",
+    "license": "MIT"
+  }
+}

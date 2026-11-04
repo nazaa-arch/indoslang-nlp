@@ -1,0 +1,3626 @@
+{
+  "mager": {
+    "senses": [
+      {
+        "normalized": "malas gerak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "baper": {
+    "senses": [
+      {
+        "normalized": "bawa perasaan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kepo": {
+    "senses": [
+      {
+        "normalized": "penasaran",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bucin": {
+    "senses": [
+      {
+        "normalized": "budak cinta",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gabut": {
+    "senses": [
+      {
+        "normalized": "gaji buta",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mantul": {
+    "senses": [
+      {
+        "normalized": "mantap betul",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pansos": {
+    "senses": [
+      {
+        "normalized": "panjat sosial",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "julid": {
+    "senses": [
+      {
+        "normalized": "iri hati",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sabi": {
+    "senses": [
+      {
+        "normalized": "bisa",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kuy": {
+    "senses": [
+      {
+        "normalized": "ayo",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gokil": {
+    "senses": [
+      {
+        "normalized": "gila",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "santuy": {
+    "senses": [
+      {
+        "normalized": "santai",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pewe": {
+    "senses": [
+      {
+        "normalized": "posisi enak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "halu": {
+    "senses": [
+      {
+        "normalized": "halusinasi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "rebahan": {
+    "senses": [
+      {
+        "normalized": "berbaring",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "woles": {
+    "senses": [
+      {
+        "normalized": "santai",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bokek": {
+    "senses": [
+      {
+        "normalized": "tidak punya uang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "curhat": {
+    "senses": [
+      {
+        "normalized": "curahan hati",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "modus": {
+    "senses": [
+      {
+        "normalized": "modal dusta",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "lebay": {
+    "senses": [
+      {
+        "normalized": "berlebihan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "alay": {
+    "senses": [
+      {
+        "normalized": "norak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "geer": {
+    "senses": [
+      {
+        "normalized": "percaya diri berlebih",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "jayus": {
+    "senses": [
+      {
+        "normalized": "lawakan tidak lucu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "garing": {
+    "senses": [
+      {
+        "normalized": "tidak lucu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nyolot": {
+    "senses": [
+      {
+        "normalized": "menantang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "songong": {
+    "senses": [
+      {
+        "normalized": "sombong",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bete": {
+    "senses": [
+      {
+        "normalized": "bosan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kudet": {
+    "senses": [
+      {
+        "normalized": "kurang perbarui informasi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gaje": {
+    "senses": [
+      {
+        "normalized": "tidak jelas",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "salfok": {
+    "senses": [
+      {
+        "normalized": "salah fokus",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tubir": {
+    "senses": [
+      {
+        "normalized": "ribut",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "menye-menye": {
+    "senses": [
+      {
+        "normalized": "cengeng",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kureng": {
+    "senses": [
+      {
+        "normalized": "kurang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kicep": {
+    "senses": [
+      {
+        "normalized": "diam terpaku",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bokis": {
+    "senses": [
+      {
+        "normalized": "bohong",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cepu": {
+    "senses": [
+      {
+        "normalized": "pembocor rahasia",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "baperan": {
+    "senses": [
+      {
+        "normalized": "mudah bawa perasaan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngabuburit": {
+    "senses": [
+      {
+        "normalized": "menunggu berbuka puasa",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngakak": {
+    "senses": [
+      {
+        "normalized": "tertawa terbahak-bahak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngambek": {
+    "senses": [
+      {
+        "normalized": "merajuk",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngeles": {
+    "senses": [
+      {
+        "normalized": "berkelit",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngedrop": {
+    "senses": [
+      {
+        "normalized": "menurun",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngobrol": {
+    "senses": [
+      {
+        "normalized": "bercakap-cakap",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngomong": {
+    "senses": [
+      {
+        "normalized": "berbicara",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngibul": {
+    "senses": [
+      {
+        "normalized": "berbohong",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngintip": {
+    "senses": [
+      {
+        "normalized": "mengintip",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngirit": {
+    "senses": [
+      {
+        "normalized": "berhemat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngiler": {
+    "senses": [
+      {
+        "normalized": "tergiur",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nginep": {
+    "senses": [
+      {
+        "normalized": "menginap",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngotot": {
+    "senses": [
+      {
+        "normalized": "bersikukuh",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngutang": {
+    "senses": [
+      {
+        "normalized": "berutang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngunduh": {
+    "senses": [
+      {
+        "normalized": "mengunduh",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngomel": {
+    "senses": [
+      {
+        "normalized": "mengomel",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngidam": {
+    "senses": [
+      {
+        "normalized": "menginginkan sesuatu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngantuk": {
+    "senses": [
+      {
+        "normalized": "mengantuk",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngarep": {
+    "senses": [
+      {
+        "normalized": "berharap",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngaco": {
+    "senses": [
+      {
+        "normalized": "kacau",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngasal": {
+    "senses": [
+      {
+        "normalized": "asal-asalan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngos-ngosan": {
+    "senses": [
+      {
+        "normalized": "terengah-engah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngopi": {
+    "senses": [
+      {
+        "normalized": "minum kopi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mabar": {
+    "senses": [
+      {
+        "normalized": "main bareng",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nobar": {
+    "senses": [
+      {
+        "normalized": "nonton bareng",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "buber": {
+    "senses": [
+      {
+        "normalized": "buka bersama",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bukber": {
+    "senses": [
+      {
+        "normalized": "buka bersama",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "copas": {
+    "senses": [
+      {
+        "normalized": "salin tempel",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "caper": {
+    "senses": [
+      {
+        "normalized": "cari perhatian",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "curcol": {
+    "senses": [
+      {
+        "normalized": "curhat colongan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "drakor": {
+    "senses": [
+      {
+        "normalized": "drama korea",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "japri": {
+    "senses": [
+      {
+        "normalized": "jalur pribadi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "komdis": {
+    "senses": [
+      {
+        "normalized": "komisi disiplin",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pansus": {
+    "senses": [
+      {
+        "normalized": "panitia khusus",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pemilu": {
+    "senses": [
+      {
+        "normalized": "pemilihan umum",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pilpres": {
+    "senses": [
+      {
+        "normalized": "pemilihan presiden",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pilkada": {
+    "senses": [
+      {
+        "normalized": "pemilihan kepala daerah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "posko": {
+    "senses": [
+      {
+        "normalized": "pos komando",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "puskesmas": {
+    "senses": [
+      {
+        "normalized": "pusat kesehatan masyarakat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "rudal": {
+    "senses": [
+      {
+        "normalized": "peluru kendali",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sikon": {
+    "senses": [
+      {
+        "normalized": "situasi dan kondisi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kramat": {
+    "senses": [
+      {
+        "normalized": "keramat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kepoan": {
+    "senses": [
+      {
+        "normalized": "serba ingin tahu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngenes": {
+    "senses": [
+      {
+        "normalized": "merana",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cengengesan": {
+    "senses": [
+      {
+        "normalized": "tertawa kecil",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "planga-plongo": {
+    "senses": [
+      {
+        "normalized": "kebingungan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "plangaplongo": {
+    "senses": [
+      {
+        "normalized": "kebingungan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tengsin": {
+    "senses": [
+      {
+        "normalized": "malu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gahar": {
+    "senses": [
+      {
+        "normalized": "garang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kecebadai": {
+    "senses": [
+      {
+        "normalized": "sangat keren",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "koplak": {
+    "senses": [
+      {
+        "normalized": "konyol",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gesrek": {
+    "senses": [
+      {
+        "normalized": "tidak beres",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "julit": {
+    "senses": [
+      {
+        "normalized": "iri hati",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gamon": {
+    "senses": [
+      {
+        "normalized": "gagal berpindah hati",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "baperparah": {
+    "senses": [
+      {
+        "normalized": "sangat bawa perasaan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "magerparah": {
+    "senses": [
+      {
+        "normalized": "sangat malas gerak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "asik": {
+    "senses": [
+      {
+        "normalized": "asyik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "asoy": {
+    "senses": [
+      {
+        "normalized": "menyenangkan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bapuk": {
+    "senses": [
+      {
+        "normalized": "jelek",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ciamik": {
+    "senses": [
+      {
+        "normalized": "bagus sekali",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cuan": {
+    "senses": [
+      {
+        "normalized": "keuntungan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bokap": {
+    "senses": [
+      {
+        "normalized": "ayah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nyokap": {
+    "senses": [
+      {
+        "normalized": "ibu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "doi": {
+    "senses": [
+      {
+        "normalized": "dia",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gebetan": {
+    "senses": [
+      {
+        "normalized": "orang yang ditaksir",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pacar": {
+    "senses": [
+      {
+        "normalized": "kekasih",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mantan": {
+    "senses": [
+      {
+        "normalized": "bekas kekasih",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tongkrongan": {
+    "senses": [
+      {
+        "normalized": "tempat berkumpul",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nongkrong": {
+    "senses": [
+      {
+        "normalized": "berkumpul santai",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nongki": {
+    "senses": [
+      {
+        "normalized": "berkumpul santai",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kongkow": {
+    "senses": [
+      {
+        "normalized": "berkumpul mengobrol",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sebat": {
+    "senses": [
+      {
+        "normalized": "merokok sebatang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "udud": {
+    "senses": [
+      {
+        "normalized": "merokok",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hangout": {
+    "senses": [
+      {
+        "normalized": "keluar bersama",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngedate": {
+    "senses": [
+      {
+        "normalized": "kencan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ambis": {
+    "senses": [
+      {
+        "normalized": "ambisius",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ansos": {
+    "senses": [
+      {
+        "normalized": "anti sosial",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bocah": {
+    "senses": [
+      {
+        "normalized": "anak kecil",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bacot": {
+    "senses": [
+      {
+        "normalized": "banyak bicara",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bangsat": {
+    "senses": [
+      {
+        "normalized": "orang brengsek",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "brengsek": {
+    "senses": [
+      {
+        "normalized": "orang tidak bermoral",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "keparat": {
+    "senses": [
+      {
+        "normalized": "orang celaka",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kampret": {
+    "senses": [
+      {
+        "normalized": "kelelawar kecil",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kampungan": {
+    "senses": [
+      {
+        "normalized": "norak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cupu": {
+    "senses": [
+      {
+        "normalized": "culun punya",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "culun": {
+    "senses": [
+      {
+        "normalized": "kurang pergaulan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "lelet": {
+    "senses": [
+      {
+        "normalized": "lambat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "lemot": {
+    "senses": [
+      {
+        "normalized": "lemah otak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tulalit": {
+    "senses": [
+      {
+        "normalized": "lambat paham",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bolot": {
+    "senses": [
+      {
+        "normalized": "tuli",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "budek": {
+    "senses": [
+      {
+        "normalized": "tuli",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "keder": {
+    "senses": [
+      {
+        "normalized": "bingung",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "eder": {
+    "senses": [
+      {
+        "normalized": "bingung",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mumet": {
+    "senses": [
+      {
+        "normalized": "pusing",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "puyeng": {
+    "senses": [
+      {
+        "normalized": "pusing",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "klenger": {
+    "senses": [
+      {
+        "normalized": "pingsan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tepar": {
+    "senses": [
+      {
+        "normalized": "kelelahan parah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kolaps": {
+    "senses": [
+      {
+        "normalized": "tumbang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "drop": {
+    "senses": [
+      {
+        "normalized": "merosot",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "amblas": {
+    "senses": [
+      {
+        "normalized": "habis lenyap",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ludes": {
+    "senses": [
+      {
+        "normalized": "habis terjual",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bececeran": {
+    "senses": [
+      {
+        "normalized": "berserakan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "muncrat": {
+    "senses": [
+      {
+        "normalized": "memercik deras",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kecepret": {
+    "senses": [
+      {
+        "normalized": "terpercik air",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nyiprat": {
+    "senses": [
+      {
+        "normalized": "memercik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kongslet": {
+    "senses": [
+      {
+        "normalized": "hubung singkat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "berabe": {
+    "senses": [
+      {
+        "normalized": "gawat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "runyam": {
+    "senses": [
+      {
+        "normalized": "kacau",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ribet": {
+    "senses": [
+      {
+        "normalized": "rumit",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "rempong": {
+    "senses": [
+      {
+        "normalized": "merepotkan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "repot": {
+    "senses": [
+      {
+        "normalized": "susah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sepele": {
+    "senses": [
+      {
+        "normalized": "remeh",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gampang": {
+    "senses": [
+      {
+        "normalized": "mudah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "susye": {
+    "senses": [
+      {
+        "normalized": "susah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kaga tau": {
+    "senses": [
+      {
+        "normalized": "tidak tahu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kaga bisa": {
+    "senses": [
+      {
+        "normalized": "tidak bisa",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kaga jelas": {
+    "senses": [
+      {
+        "normalized": "tidak jelas",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bodo amat": {
+    "senses": [
+      {
+        "normalized": "tidak peduli",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cuek bebek": {
+    "senses": [
+      {
+        "normalized": "sangat tidak peduli",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cuek": {
+    "senses": [
+      {
+        "normalized": "tidak acuh",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "acuh tak acuh": {
+    "senses": [
+      {
+        "normalized": "tidak peduli",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bego amat": {
+    "senses": [
+      {
+        "normalized": "sangat bodoh",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kebangetan": {
+    "senses": [
+      {
+        "normalized": "keterlaluan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "parah bgt": {
+    "senses": [
+      {
+        "normalized": "parah banget",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mantap jiwa": {
+    "senses": [
+      {
+        "normalized": "hebat sekali",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mantap abis": {
+    "senses": [
+      {
+        "normalized": "sangat mantap",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kece abis": {
+    "senses": [
+      {
+        "normalized": "sangat keren",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gokil abis": {
+    "senses": [
+      {
+        "normalized": "sangat gila",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "edan": {
+    "senses": [
+      {
+        "normalized": "gila",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gendeng": {
+    "senses": [
+      {
+        "normalized": "gila",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sinting": {
+    "senses": [
+      {
+        "normalized": "tidak waras",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gesrek abis": {
+    "senses": [
+      {
+        "normalized": "sangat konyol",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "otw nih": {
+    "senses": [
+      {
+        "normalized": "dalam perjalanan ini",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gaspoll": {
+    "senses": [
+      {
+        "normalized": "tancap gas",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gercep": {
+    "senses": [
+      {
+        "normalized": "gerak cepat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "satset": {
+    "senses": [
+      {
+        "normalized": "cepat tanggap",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sat-set": {
+    "senses": [
+      {
+        "normalized": "cepat tanggap",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gercepan": {
+    "senses": [
+      {
+        "normalized": "bergerak cepat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gaskeun": {
+    "senses": [
+      {
+        "normalized": "lanjutkan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kuy lah": {
+    "senses": [
+      {
+        "normalized": "ayo mari",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "skuy": {
+    "senses": [
+      {
+        "normalized": "ayo",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "yogs": {
+    "senses": [
+      {
+        "normalized": "ya",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mak": {
+    "senses": [
+      {
+        "normalized": "ibu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "emak": {
+    "senses": [
+      {
+        "normalized": "ibu",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "babeh": {
+    "senses": [
+      {
+        "normalized": "ayah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "babe": {
+    "senses": [
+      {
+        "normalized": "ayah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "abang": {
+    "senses": [
+      {
+        "normalized": "kakak laki-laki",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mpok": {
+    "senses": [
+      {
+        "normalized": "kakak perempuan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "encang": {
+    "senses": [
+      {
+        "normalized": "paman",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "encing": {
+    "senses": [
+      {
+        "normalized": "bibi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bray": {
+    "senses": [
+      {
+        "normalized": "kawan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bro": {
+    "senses": [
+      {
+        "normalized": "saudara",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sis": {
+    "senses": [
+      {
+        "normalized": "saudari",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gan": {
+    "senses": [
+      {
+        "normalized": "juragan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "agan": {
+    "senses": [
+      {
+        "normalized": "juragan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "aganwati": {
+    "senses": [
+      {
+        "normalized": "juragan perempuan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sist": {
+    "senses": [
+      {
+        "normalized": "saudari",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sista": {
+    "senses": [
+      {
+        "normalized": "saudari",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "coy": {
+    "senses": [
+      {
+        "normalized": "kawan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sob": {
+    "senses": [
+      {
+        "normalized": "sobat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sohib": {
+    "senses": [
+      {
+        "normalized": "sahabat karib",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bestie": {
+    "senses": [
+      {
+        "normalized": "sahabat terbaik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sohiban": {
+    "senses": [
+      {
+        "normalized": "bersahabat karib",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bolo": {
+    "senses": [
+      {
+        "normalized": "teman",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "komplotan": {
+    "senses": [
+      {
+        "normalized": "kelompok pertemanan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sirkel": {
+    "senses": [
+      {
+        "normalized": "lingkaran pertemanan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "circle": {
+    "senses": [
+      {
+        "normalized": "lingkaran pertemanan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "fomo": {
+    "senses": [
+      {
+        "normalized": "takut tertinggal tren",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "yapping": {
+    "senses": [
+      {
+        "normalized": "banyak bicara tidak jelas",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "skibidi": {
+    "senses": [
+      {
+        "normalized": "keren atau tidak jelas",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "riz": {
+    "senses": [
+      {
+        "normalized": "daya tarik karisma",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "rizz": {
+    "senses": [
+      {
+        "normalized": "daya tarik karisma",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gyatt": {
+    "senses": [
+      {
+        "normalized": "kekaguman fisik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sigma": {
+    "senses": [
+      {
+        "normalized": "mandiri dan keren",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mewing": {
+    "senses": [
+      {
+        "normalized": "latihan postur rahang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cap": {
+    "senses": [
+      {
+        "normalized": "kebohongan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "no cap": {
+    "senses": [
+      {
+        "normalized": "tanpa kebohongan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "bet": {
+    "senses": [
+      {
+        "normalized": "setuju",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "slay": {
+    "senses": [
+      {
+        "normalized": "tampil sangat hebat",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "period": {
+    "senses": [
+      {
+        "normalized": "titik tidak terbantahkan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sus": {
+    "senses": [
+      {
+        "normalized": "mencurigakan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "delulu": {
+    "senses": [
+      {
+        "normalized": "delusional",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "solulu": {
+    "senses": [
+      {
+        "normalized": "solusi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "situationship": {
+    "senses": [
+      {
+        "normalized": "hubungan tanpa status",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ghosting": {
+    "senses": [
+      {
+        "normalized": "menghilang tanpa kabar",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "zombieing": {
+    "senses": [
+      {
+        "normalized": "muncul kembali setelah menghilang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "breadcrumbing": {
+    "senses": [
+      {
+        "normalized": "memberi harapan palsu sedikit demi sedikit",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "love bombing": {
+    "senses": [
+      {
+        "normalized": "hujanan kasih sayang berlebih manipulatif",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gaslight": {
+    "senses": [
+      {
+        "normalized": "manipulasi pikiran",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gaslighting": {
+    "senses": [
+      {
+        "normalized": "memanipulasi pikiran orang lain",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "red flag": {
+    "senses": [
+      {
+        "normalized": "tanda bahaya hubungan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "green flag": {
+    "senses": [
+      {
+        "normalized": "tanda positif hubungan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "beige flag": {
+    "senses": [
+      {
+        "normalized": "kebiasaan aneh tapi tidak berbahaya",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "healing": {
+    "senses": [
+      {
+        "normalized": "pemulihan diri",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "staycation": {
+    "senses": [
+      {
+        "normalized": "liburan menginap santai",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "me time": {
+    "senses": [
+      {
+        "normalized": "waktu untuk diri sendiri",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "self reward": {
+    "senses": [
+      {
+        "normalized": "penghargaan diri sendiri",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "self care": {
+    "senses": [
+      {
+        "normalized": "merawat diri",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "overthinking": {
+    "senses": [
+      {
+        "normalized": "berpikir berlebihan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "burnout": {
+    "senses": [
+      {
+        "normalized": "kejenuhan bekerja parah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hustle": {
+    "senses": [
+      {
+        "normalized": "bekerja keras tanpa henti",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "flexing": {
+    "senses": [
+      {
+        "normalized": "pamer kekayaan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "toxic": {
+    "senses": [
+      {
+        "normalized": "beracun secara mental",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "vibes": {
+    "senses": [
+      {
+        "normalized": "suasana perasaan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "mood": {
+    "senses": [
+      {
+        "normalized": "suasana hati",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "moody": {
+    "senses": [
+      {
+        "normalized": "mudah berubah suasana hati",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "deep talk": {
+    "senses": [
+      {
+        "normalized": "percakapan mendalam",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "small talk": {
+    "senses": [
+      {
+        "normalized": "basa-basi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "relate": {
+    "senses": [
+      {
+        "normalized": "merasa senasib",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "relatable": {
+    "senses": [
+      {
+        "normalized": "mudah dipahami dan senasib",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cringe": {
+    "senses": [
+      {
+        "normalized": "merasa risih atau geli",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "salting": {
+    "senses": [
+      {
+        "normalized": "salah tingkah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "salty": {
+    "senses": [
+      {
+        "normalized": "kesal dan dendam",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "spill": {
+    "senses": [
+      {
+        "normalized": "bocorkan rahasia",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "spill the tea": {
+    "senses": [
+      {
+        "normalized": "bocorkan gosip terbaru",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "drop the tea": {
+    "senses": [
+      {
+        "normalized": "ceritakan gosipnya",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "clout": {
+    "senses": [
+      {
+        "normalized": "pengaruh media sosial",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "gatekeep": {
+    "senses": [
+      {
+        "normalized": "menyembunyikan informasi bagus",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "simp": {
+    "senses": [
+      {
+        "normalized": "berlebihan memuja lawan jenis",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "stan": {
+    "senses": [
+      {
+        "normalized": "penggemar fanatik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "fangirl": {
+    "senses": [
+      {
+        "normalized": "penggemar wanita fanatik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "fanboy": {
+    "senses": [
+      {
+        "normalized": "penggemar pria fanatik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ship": {
+    "senses": [
+      {
+        "normalized": "menjodohkan pasangan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "canon": {
+    "senses": [
+      {
+        "normalized": "resmi sesuai cerita",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "fanfic": {
+    "senses": [
+      {
+        "normalized": "cerita fiksi penggemar",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pov": {
+    "senses": [
+      {
+        "normalized": "sudut pandang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "npc": {
+    "senses": [
+      {
+        "normalized": "orang bertingkah seperti figuran",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "main character": {
+    "senses": [
+      {
+        "normalized": "merasa seperti tokoh utama",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "touch grass": {
+    "senses": [
+      {
+        "normalized": "keluarlah melihat dunia nyata",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "clown": {
+    "senses": [
+      {
+        "normalized": "bertingkah konyol diperdaya",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "badut": {
+    "senses": [
+      {
+        "normalized": "orang yang diperdaya cinta",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ngabadut": {
+    "senses": [
+      {
+        "normalized": "bertingkah memalukan demi orang lain",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sadboy": {
+    "senses": [
+      {
+        "normalized": "pria yang bersedih karena cinta",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sadgirl": {
+    "senses": [
+      {
+        "normalized": "wanita yang bersedih karena cinta",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "softboy": {
+    "senses": [
+      {
+        "normalized": "pria bersikap manis manipulatif",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "fuckboy": {
+    "senses": [
+      {
+        "normalized": "pria brengsek pemikat wanita",
+        "category": "profanity",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "jamet": {
+    "senses": [
+      {
+        "normalized": "gaya metal tidak rapi",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kuproy": {
+    "senses": [
+      {
+        "normalized": "kuli proyek gaya norak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ani-ani": {
+    "senses": [
+      {
+        "normalized": "wanita simpanan gaya mewah",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sugar daddy": {
+    "senses": [
+      {
+        "normalized": "pria tua pembiaya wanita muda",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sugar baby": {
+    "senses": [
+      {
+        "normalized": "wanita muda simpanan pria tua",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "simpenan": {
+    "senses": [
+      {
+        "normalized": "orang simpanan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pelakor": {
+    "senses": [
+      {
+        "normalized": "perebut laki orang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "pebinor": {
+    "senses": [
+      {
+        "normalized": "perebut bini orang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "jendes": {
+    "senses": [
+      {
+        "normalized": "janda muda",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "brondong": {
+    "senses": [
+      {
+        "normalized": "pria jauh lebih muda",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cogan": {
+    "senses": [
+      {
+        "normalized": "cowok ganteng",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "cecan": {
+    "senses": [
+      {
+        "normalized": "cewek cantik",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wibu": {
+    "senses": [
+      {
+        "normalized": "penggemar berat budaya jepang",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "otaku": {
+    "senses": [
+      {
+        "normalized": "pecinta anime dan gim",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kpopers": {
+    "senses": [
+      {
+        "normalized": "penggemar musik pop korea",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "oppa": {
+    "senses": [
+      {
+        "normalized": "kakak laki-laki korea",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "noona": {
+    "senses": [
+      {
+        "normalized": "kakak perempuan korea",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "unnie": {
+    "senses": [
+      {
+        "normalized": "kakak perempuan korea",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hyung": {
+    "senses": [
+      {
+        "normalized": "kakak laki-laki korea",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nolep": {
+    "senses": [
+      {
+        "normalized": "tidak punya kehidupan sosial",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "no life": {
+    "senses": [
+      {
+        "normalized": "tidak punya kehidupan sosial",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "introvert": {
+    "senses": [
+      {
+        "normalized": "pribadi penyendiri",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ekstrovert": {
+    "senses": [
+      {
+        "normalized": "pribadi suka bergaul",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "ambivert": {
+    "senses": [
+      {
+        "normalized": "pribadi campuran penyendiri dan bergaul",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "muntaber": {
+    "senses": [
+      {
+        "normalized": "muntah dan berak",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "masberto": {
+    "senses": [
+      {
+        "normalized": "masyarakat bertato",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "begal": {
+    "senses": [
+      {
+        "normalized": "perampas di jalan",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "klitih": {
+    "senses": [
+      {
+        "normalized": "kejahatan jalanan remaja",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "tawuran": {
+    "senses": [
+      {
+        "normalized": "perkelahian massal",
+        "category": "slang",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  }
+}

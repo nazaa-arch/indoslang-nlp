@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or application, please cite it as below."
+authors:
+  - name: "IndoSlang-NLP Contributors"
+title: "IndoSlang-NLP: Deterministic, High-Speed Indonesian Social Media Slang, Elongation, and Informal Text Normalizer"
+version: 0.1.0
+date-released: 2026-11-04
+license: MIT
+repository-code: "https://github.com/indoslang/indoslang-nlp"
+keywords:
+  - natural-language-processing
+  - indonesian-nlp
+  - text-normalization
+  - slang-normalizer
+  - leetspeak
+  - de-elongation

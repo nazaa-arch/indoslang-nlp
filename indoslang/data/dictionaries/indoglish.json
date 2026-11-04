@@ -1,0 +1,1070 @@
+{
+  "jaksel": {
+    "senses": [
+      {
+        "normalized": "jakarta selatan",
+        "category": "abbreviation",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "which is": {
+    "senses": [
+      {
+        "normalized": "yang mana",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "literally": {
+    "senses": [
+      {
+        "normalized": "secara harfiah",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "basically": {
+    "senses": [
+      {
+        "normalized": "pada dasarnya",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "honest review": {
+    "senses": [
+      {
+        "normalized": "ulasan jujur",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "even": {
+    "senses": [
+      {
+        "normalized": "bahkan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "preferred": {
+    "senses": [
+      {
+        "normalized": "lebih disukai",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "prefer": {
+    "senses": [
+      {
+        "normalized": "lebih suka",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "makes sense": {
+    "senses": [
+      {
+        "normalized": "masuk akal",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "make sense": {
+    "senses": [
+      {
+        "normalized": "masuk akal",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "worth it": {
+    "senses": [
+      {
+        "normalized": "sepadan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "not worth it": {
+    "senses": [
+      {
+        "normalized": "tidak sepadan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "at the end of the day": {
+    "senses": [
+      {
+        "normalized": "pada akhirnya",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "in the first place": {
+    "senses": [
+      {
+        "normalized": "sejak awal",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "let alone": {
+    "senses": [
+      {
+        "normalized": "jangankan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "speaking of": {
+    "senses": [
+      {
+        "normalized": "omong-omong soal",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "by the way": {
+    "senses": [
+      {
+        "normalized": "omong-omong",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "anyway": {
+    "senses": [
+      {
+        "normalized": "bagaimanapun juga",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "somehow": {
+    "senses": [
+      {
+        "normalized": "entah bagaimana",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "someway": {
+    "senses": [
+      {
+        "normalized": "entah lewat mana",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "no wonder": {
+    "senses": [
+      {
+        "normalized": "pantas saja",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "part of": {
+    "senses": [
+      {
+        "normalized": "bagian dari",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "kind of": {
+    "senses": [
+      {
+        "normalized": "agak",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sort of": {
+    "senses": [
+      {
+        "normalized": "semacam",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "to be honest": {
+    "senses": [
+      {
+        "normalized": "sejujurnya",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "in my opinion": {
+    "senses": [
+      {
+        "normalized": "menurut pendapat saya",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "for your information": {
+    "senses": [
+      {
+        "normalized": "sekadar informasi",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "as far as i know": {
+    "senses": [
+      {
+        "normalized": "sejauh yang saya tahu",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "point of view": {
+    "senses": [
+      {
+        "normalized": "sudut pandang",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "struggle": {
+    "senses": [
+      {
+        "normalized": "berjuang keras",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "struggling": {
+    "senses": [
+      {
+        "normalized": "sedang berjuang keras",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "insight": {
+    "senses": [
+      {
+        "normalized": "wawasan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "insights": {
+    "senses": [
+      {
+        "normalized": "wawasan-wawasan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "sharing": {
+    "senses": [
+      {
+        "normalized": "berbagi pengalaman",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "feedback": {
+    "senses": [
+      {
+        "normalized": "umpan balik",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "timeline": {
+    "senses": [
+      {
+        "normalized": "linimasa",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "deadline": {
+    "senses": [
+      {
+        "normalized": "tenggat waktu",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "take care": {
+    "senses": [
+      {
+        "normalized": "jaga diri baik-baik",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "see you": {
+    "senses": [
+      {
+        "normalized": "sampai jumpa",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "good luck": {
+    "senses": [
+      {
+        "normalized": "semoga berhasil",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "well played": {
+    "senses": [
+      {
+        "normalized": "permainan yang bagus",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "good job": {
+    "senses": [
+      {
+        "normalized": "kerja bagus",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "nice try": {
+    "senses": [
+      {
+        "normalized": "usaha yang bagus",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "well done": {
+    "senses": [
+      {
+        "normalized": "dilakukan dengan baik",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "great job": {
+    "senses": [
+      {
+        "normalized": "pekerjaan luar biasa",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "no worries": {
+    "senses": [
+      {
+        "normalized": "jangan khawatir",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "never mind": {
+    "senses": [
+      {
+        "normalized": "tidak apa-apa lupakan saja",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "take your time": {
+    "senses": [
+      {
+        "normalized": "santai saja jangan terburu-buru",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "keep in touch": {
+    "senses": [
+      {
+        "normalized": "tetap saling berhubungan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "catch up": {
+    "senses": [
+      {
+        "normalized": "bertemu mengobrol",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "meet up": {
+    "senses": [
+      {
+        "normalized": "bertemu langsung",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "call it a day": {
+    "senses": [
+      {
+        "normalized": "sudahi pekerjaan hari ini",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "deal with it": {
+    "senses": [
+      {
+        "normalized": "terimalah kenyataan itu",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "figure out": {
+    "senses": [
+      {
+        "normalized": "mencari tahu jalan keluar",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "reach out": {
+    "senses": [
+      {
+        "normalized": "menghubungi",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "follow up": {
+    "senses": [
+      {
+        "normalized": "menindaklanjuti",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wrap up": {
+    "senses": [
+      {
+        "normalized": "menyelesaikan rangkuman",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "touch down": {
+    "senses": [
+      {
+        "normalized": "mendarat tiba",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "standby": {
+    "senses": [
+      {
+        "normalized": "bersiap sedia",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "stand by": {
+    "senses": [
+      {
+        "normalized": "bersiap sedia",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "on the way": {
+    "senses": [
+      {
+        "normalized": "dalam perjalanan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "right away": {
+    "senses": [
+      {
+        "normalized": "seketika itu juga",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "all in": {
+    "senses": [
+      {
+        "normalized": "sepenuh tenaga",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "all out": {
+    "senses": [
+      {
+        "normalized": "mengerahkan segalanya",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "step up": {
+    "senses": [
+      {
+        "normalized": "meningkatkan kemampuan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hands down": {
+    "senses": [
+      {
+        "normalized": "tanpa diragukan lagi",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hands up": {
+    "senses": [
+      {
+        "normalized": "angkat tangan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "give up": {
+    "senses": [
+      {
+        "normalized": "menyerah kalah",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "move on": {
+    "senses": [
+      {
+        "normalized": "melangkah maju",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "turn on": {
+    "senses": [
+      {
+        "normalized": "menyalakan gairah",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "turn off": {
+    "senses": [
+      {
+        "normalized": "menghilangkan minat",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "freak out": {
+    "senses": [
+      {
+        "normalized": "panik ketakutan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "chill out": {
+    "senses": [
+      {
+        "normalized": "santai tenang",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hang on": {
+    "senses": [
+      {
+        "normalized": "tunggu sebentar",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "hang out": {
+    "senses": [
+      {
+        "normalized": "jalan santai bersama",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "show off": {
+    "senses": [
+      {
+        "normalized": "pamer kebolehan",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "burn out": {
+    "senses": [
+      {
+        "normalized": "kelelahan kerja kronis",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "back up": {
+    "senses": [
+      {
+        "normalized": "cadangan pendukung",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "set up": {
+    "senses": [
+      {
+        "normalized": "pengaturan awal",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "check in": {
+    "senses": [
+      {
+        "normalized": "lapor masuk",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "check out": {
+    "senses": [
+      {
+        "normalized": "lapor keluar",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "workout": {
+    "senses": [
+      {
+        "normalized": "latihan olahraga",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "work out": {
+    "senses": [
+      {
+        "normalized": "berolahraga fisik",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "work from home": {
+    "senses": [
+      {
+        "normalized": "bekerja dari rumah",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "work from office": {
+    "senses": [
+      {
+        "normalized": "bekerja dari kantor",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wfh": {
+    "senses": [
+      {
+        "normalized": "bekerja dari rumah",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wfo": {
+    "senses": [
+      {
+        "normalized": "bekerja dari kantor",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "wfa": {
+    "senses": [
+      {
+        "normalized": "bekerja dari mana saja",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  },
+  "work from anywhere": {
+    "senses": [
+      {
+        "normalized": "bekerja dari mana saja",
+        "category": "indoglish",
+        "confidence": 1.0
+      }
+    ],
+    "ambiguous": false,
+    "source": "manual_curation",
+    "license": "MIT"
+  }
+}
