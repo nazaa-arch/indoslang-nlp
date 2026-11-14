@@ -6,7 +6,7 @@ title: "IndoSlang-NLP: Deterministic, High-Speed Indonesian Social Media Slang, 
 version: 0.1.0
 date-released: 2026-11-04
 license: MIT
-repository-code: "https://github.com/indoslang/indoslang-nlp"
+repository-code: "https://github.com/nazaa-arch/indoslang-nlp"
 keywords:
   - natural-language-processing
   - indonesian-nlp
